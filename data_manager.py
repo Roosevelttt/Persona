@@ -10,7 +10,7 @@ import json
 import logging
 from datetime import datetime, timedelta
 
-from config import DATA_DIR, AUDIO_FEATURES, CACHE_DURATION_HOURS
+from config import DATA_DIR, AUDIO_FEATURES, FALLBACK_FEATURES, CACHE_DURATION_HOURS
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -101,8 +101,34 @@ class DataManager:
     def prepare_features_for_ml(self, audio_features: Dict) -> np.ndarray:
         """Convert audio features dictionary to numpy array for ML model."""
         features = []
+
+        # Try to get standard audio features first
         for feature in AUDIO_FEATURES:
-            features.append(audio_features.get(feature, 0))
+            if feature in audio_features:
+                features.append(audio_features[feature])
+            else:
+                features.append(0)
+
+        # If we don't have enough features, try fallback features
+        if len([f for f in features if f != 0]) < 3:  # Less than 3 non-zero features
+            # Use fallback features instead
+            features = []
+            fallback_mapping = {
+                'danceability': 'danceability_estimate',
+                'energy': 'energy_estimate',
+                'valence': 'valence_estimate',
+                'popularity': 'popularity',
+                'duration_ms': 'duration_normalized',
+                'explicit': 'explicit'
+            }
+
+            for feature in AUDIO_FEATURES:
+                fallback_key = fallback_mapping.get(feature)
+                if fallback_key and fallback_key in audio_features:
+                    features.append(audio_features[fallback_key])
+                else:
+                    features.append(0.5)  # Neutral default
+
         return np.array(features).reshape(1, -1)
     
     def get_song_features_batch(self, songs_data: Dict) -> Tuple[List[str], np.ndarray]:

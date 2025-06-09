@@ -23,10 +23,10 @@ SPOTIFY_REDIRECT_URI = os.getenv("SPOTIFY_REDIRECT_URI", "http://localhost:8501/
 MODEL_PATH = MODELS_DIR / "music_recommender.joblib"
 RANDOM_STATE = 42
 
-# Audio features to use for recommendations
+# Audio features to use for recommendations (when available)
 AUDIO_FEATURES = [
     'danceability',
-    'energy', 
+    'energy',
     'key',
     'loudness',
     'mode',
@@ -36,6 +36,14 @@ AUDIO_FEATURES = [
     'liveness',
     'valence',
     'tempo'
+]
+
+# Fallback features using basic song metadata
+FALLBACK_FEATURES = [
+    'popularity',
+    'duration_ms',
+    'explicit',
+    'track_number'
 ]
 
 # App settings
