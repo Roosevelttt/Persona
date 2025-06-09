@@ -3,9 +3,7 @@ Main Streamlit application for the Persona music recommendation system.
 """
 
 import streamlit as st
-import pandas as pd
-import numpy as np
-from typing import Dict, Optional, Tuple
+import streamlit.components.v1 as components
 import logging
 from dotenv import load_dotenv
 
@@ -58,6 +56,9 @@ def initialize_session_state():
     
     if 'app_initialized' not in st.session_state:
         st.session_state.app_initialized = False
+
+    if 'use_spotify_embed' not in st.session_state:
+        st.session_state.use_spotify_embed = True
 
 
 def initialize_app():
@@ -181,39 +182,187 @@ def handle_feedback(feedback: int):
         logger.error(f"Feedback handling error: {e}")
 
 
+def create_spotify_embed_html(track_id: str, theme: str = "0") -> str:
+    """
+    Create HTML for Spotify embed iframe with enhanced styling.
+
+    Args:
+        track_id: Spotify track ID
+        theme: "0" for light theme, "1" for dark theme
+    """
+    embed_url = f"https://open.spotify.com/embed/track/{track_id}"
+
+    # Enhanced CSS for responsive iframe with better styling
+    iframe_html = f"""
+    <div style="
+        position: relative;
+        width: 100%;
+        height: 152px;
+        margin: 15px 0;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+        background: linear-gradient(135deg, #1DB954 0%, #1ed760 100%);
+        padding: 2px;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    ">
+        <div style="
+            width: 100%;
+            height: 100%;
+            border-radius: 10px;
+            overflow: hidden;
+            background: white;
+        ">
+            <iframe
+                src="{embed_url}?utm_source=generator&theme={theme}"
+                width="100%"
+                height="152"
+                frameborder="0"
+                allowfullscreen=""
+                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                loading="lazy"
+                style="border-radius: 10px; display: block;">
+            </iframe>
+        </div>
+    </div>
+    <style>
+        div:hover {{
+            transform: translateY(-2px);
+            box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+        }}
+    </style>
+    """
+    return iframe_html
+
+
+def validate_spotify_track_id(track_id: str) -> bool:
+    """Validate if the track ID is in correct Spotify format."""
+    if not track_id or not isinstance(track_id, str):
+        return False
+
+    # Spotify track IDs are 22 characters long and contain alphanumeric characters
+    return len(track_id) == 22 and track_id.isalnum()
+
+
 def display_current_song():
-    """Display the current song recommendation."""
+    """Display the current song recommendation with Spotify embed player."""
     if not st.session_state.current_song:
         st.warning("No song to display")
         return
-    
+
     song = st.session_state.current_song
-    
+    song_id = song.get('id')
+
     # Song information
     st.subheader(f"🎵 {song['name']}")
     st.write(f"**Artist:** {song['artist']}")
     st.write(f"**Album:** {song['album']}")
-    
-    # Audio preview
-    if song.get('preview_url'):
-        st.audio(song['preview_url'])
-    else:
-        st.info("No preview available for this song")
-    
-    # Spotify link
-    if song.get('external_url'):
-        st.markdown(f"[🎧 Listen on Spotify]({song['external_url']})")
-    
-    # Feedback buttons
+
+    # Create two columns for better layout
+    col1, col2 = st.columns([2, 1])
+
+    with col1:
+        # Player preference toggle
+        player_col1, player_col2 = st.columns([3, 1])
+        with player_col1:
+            st.markdown("### 🎧 Listen Now")
+        with player_col2:
+            use_embed = st.toggle("Spotify Player", value=st.session_state.use_spotify_embed, key="embed_toggle")
+            st.session_state.use_spotify_embed = use_embed
+
+        # Display appropriate player based on user preference and availability
+        if use_embed and song_id:
+            # Validate track ID first
+            if validate_spotify_track_id(song_id):
+                try:
+                    # Determine theme based on Streamlit theme (default to light)
+                    embed_html = create_spotify_embed_html(song_id, theme="0")
+                    components.html(embed_html, height=170)
+
+                    # Subtle success indicator
+                    st.caption("🎵 Spotify embed player loaded successfully")
+
+                except Exception as e:
+                    logger.warning(f"Failed to load Spotify embed for {song_id}: {e}")
+                    st.error("❌ Unable to load Spotify embed player")
+
+                    # Automatic fallback to audio preview
+                    if song.get('preview_url'):
+                        st.markdown("**🔊 Audio Preview (Fallback)**")
+                        st.audio(song['preview_url'])
+                        st.caption("Using audio preview as fallback")
+                    else:
+                        st.info("No preview available for this song")
+            else:
+                st.warning("⚠️ Invalid Spotify track ID format")
+                # Fallback to audio preview
+                if song.get('preview_url'):
+                    st.markdown("**🔊 Audio Preview**")
+                    st.audio(song['preview_url'])
+                else:
+                    st.info("No preview available for this song")
+
+        elif song.get('preview_url'):
+            # Use standard audio preview
+            st.audio(song['preview_url'])
+            st.caption("🔊 Standard audio preview")
+
+        else:
+            # No preview available at all
+            st.info("⚠️ No audio preview available for this song")
+            if song_id:
+                st.caption("Try enabling Spotify Player above for full track access")
+
+    with col2:
+        # Song details and actions
+        st.markdown("### 📊 Song Info")
+
+        # Display additional song metadata if available
+        if song.get('popularity'):
+            st.metric("Popularity", f"{song['popularity']}/100")
+
+        if song.get('duration_ms'):
+            duration_min = song['duration_ms'] // 60000
+            duration_sec = (song['duration_ms'] % 60000) // 1000
+            st.metric("Duration", f"{duration_min}:{duration_sec:02d}")
+
+        # External Spotify link
+        if song.get('external_url'):
+            st.markdown(f"""
+            <div style="margin: 15px 0;">
+                <a href="{song['external_url']}" target="_blank"
+                   style="
+                       display: inline-block;
+                       padding: 8px 16px;
+                       background-color: #1DB954;
+                       color: white;
+                       text-decoration: none;
+                       border-radius: 20px;
+                       font-weight: bold;
+                       text-align: center;
+                   ">
+                   🎧 Open in Spotify
+                </a>
+            </div>
+            """, unsafe_allow_html=True)
+
+    # Feedback buttons (full width below)
+    st.markdown("### 💭 Rate This Song")
     col1, col2, col3 = st.columns([1, 1, 2])
-    
+
     with col1:
         if st.button("👍 Like", key="like_btn", use_container_width=True):
             handle_feedback(1)
-    
+
     with col2:
         if st.button("👎 Dislike", key="dislike_btn", use_container_width=True):
             handle_feedback(0)
+
+    with col3:
+        # Add a skip button for better UX
+        if st.button("⏭️ Skip Song", key="skip_btn", use_container_width=True):
+            get_next_recommendation()
+            st.rerun()
 
 
 def display_stats():
@@ -269,12 +418,32 @@ def main():
     with st.sidebar:
         st.header("About Persona")
         st.write("Persona learns your music taste through your feedback and provides increasingly personalized recommendations.")
-        
+
         if st.session_state.app_initialized:
             st.subheader("Model Status")
             stats = st.session_state.recommender.get_model_stats()
             st.write(f"**Model Trained:** {'✅' if stats['is_trained'] else '❌'}")
             st.write(f"**Total Feedback:** {stats['total_feedback']}")
+
+            st.divider()
+
+            # Player preferences
+            st.subheader("🎵 Player Settings")
+            st.write("**Default Player:**")
+            default_embed = st.radio(
+                "Choose your preferred music player",
+                ["Spotify Embed Player", "Audio Preview"],
+                index=0 if st.session_state.use_spotify_embed else 1,
+                key="default_player_radio"
+            )
+
+            # Update session state based on radio selection
+            st.session_state.use_spotify_embed = (default_embed == "Spotify Embed Player")
+
+            st.caption("💡 **Tip:** Spotify embed provides full track access, while audio preview offers 30-second clips.")
+
+            if st.button("🔄 Refresh Current Song", use_container_width=True):
+                st.rerun()
 
 
 if __name__ == "__main__":
