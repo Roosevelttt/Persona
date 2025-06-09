@@ -76,12 +76,38 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
-# Model files (optional - uncomment if models get too large)
-# models/*.joblib
+# User Data & Privacy Protection
+# CRITICAL: These files contain personal user data and must not be committed
+data/user_feedback.csv          # Personal music preferences and ratings
+data/songs_cache.json           # Cached music data (can be regenerated)
+models/*.joblib                 # User-specific trained ML models
+models/                         # Entire models directory for user privacy
 
-# Data cache (optional - uncomment if you want to ignore cached data)
-# data/songs_cache.json
-# data/user_feedback.csv
+# Temporary/Debug files
+debug_env.py                    # May contain credential debugging info
+test_spotify.py                 # May contain test credentials
+show_recommendations.py         # Analysis tool (optional to exclude)
 
-# Logs
+# Logs (may contain sensitive information)
 *.log
+logs/
+*.log.*
+
+# Backup files (may contain sensitive data)
+*.bak
+*.backup
+*.tmp
+*~
+
+# User-specific configuration
+.persona/
+user_config.json
+local_settings.py
+
+# Data exports (personal data)
+exports/
+*.csv
+*.json
+!requirements.txt
+!package.json
+!.env.example
