@@ -1,202 +1,256 @@
 {
-  "timestamp": "2025-06-09T21:36:08.391121",
+  "timestamp": "2025-06-11T16:09:57.675302",
   "songs": {
-    "26cvTWJq2E1QqN4jyH2OTU": {
-      "id": "26cvTWJq2E1QqN4jyH2OTU",
-      "name": "Tak Segampang Itu",
-      "artist": "Anggi Marito",
-      "album": "Tak Segampang Itu",
+    "4KL3FJYexPrPuMdPagHPXp": {
+      "id": "4KL3FJYexPrPuMdPagHPXp",
+      "name": "Yours",
+      "artist": "Raiden, CHANYEOL, LeeHi, CHANGMO",
+      "album": "Yours",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU",
+      "external_url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp",
+      "popularity": 64,
+      "duration_ms": 235413,
+      "audio_features": {
+        "popularity": 0.64,
+        "duration_normalized": 0.392355,
+        "explicit": 0.0,
+        "energy_estimate": 0.8,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.64
+      }
+    },
+    "5NmjnghJGJRFg34KGGx8O0": {
+      "id": "5NmjnghJGJRFg34KGGx8O0",
+      "name": "Seandainya",
+      "artist": "Vierra",
+      "album": "My First Love",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/5NmjnghJGJRFg34KGGx8O0",
       "popularity": 82,
-      "duration_ms": 231100,
+      "duration_ms": 263407,
       "audio_features": {
         "popularity": 0.82,
-        "duration_normalized": 0.38516666666666666,
+        "duration_normalized": 0.4390116666666667,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.82
       }
     },
-    "1ZPVEo8RfmrEz8YAD5n6rW": {
-      "id": "1ZPVEo8RfmrEz8YAD5n6rW",
-      "name": "Lantas",
-      "artist": "Juicy Luicy",
-      "album": "Sentimental",
+    "2vzpoecVhBE1pKtHzKONaN": {
+      "id": "2vzpoecVhBE1pKtHzKONaN",
+      "name": "Seluruh Nafas Ini",
+      "artist": "Last Child, Gisel",
+      "album": "Our Biggest Thing Ever",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW",
-      "popularity": 82,
-      "duration_ms": 234204,
-      "audio_features": {
-        "popularity": 0.82,
-        "duration_normalized": 0.39034,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.82
-      }
-    },
-    "5Y77SQxEr1eiofPeUTPHxM": {
-      "id": "5Y77SQxEr1eiofPeUTPHxM",
-      "name": "You",
-      "artist": "Lloyd, Lil Wayne",
-      "album": "Street Love",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM",
-      "popularity": 83,
-      "duration_ms": 273133,
-      "audio_features": {
-        "popularity": 0.83,
-        "duration_normalized": 0.4552216666666667,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.83
-      }
-    },
-    "4sJmv194lQKWjytpaxH1Vj": {
-      "id": "4sJmv194lQKWjytpaxH1Vj",
-      "name": "Separuh Aku",
-      "artist": "Noah",
-      "album": "Seperti Seharusnya",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj",
+      "external_url": "https://open.spotify.com/track/2vzpoecVhBE1pKtHzKONaN",
       "popularity": 77,
-      "duration_ms": 266286,
+      "duration_ms": 292337,
       "audio_features": {
         "popularity": 0.77,
-        "duration_normalized": 0.44381,
+        "duration_normalized": 0.4872283333333333,
         "explicit": 0.0,
         "energy_estimate": 0.9625,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.77
       }
     },
-    "4HPxh6IkRxCkb3T06Pltch": {
-      "id": "4HPxh6IkRxCkb3T06Pltch",
-      "name": "Diary Depresiku",
-      "artist": "Last Child",
-      "album": "Everything We Are Everything",
+    "7lQ8MOhq6IN2w8EYcFNSUk": {
+      "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+      "name": "Without Me",
+      "artist": "Eminem",
+      "album": "The Eminem Show",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/4HPxh6IkRxCkb3T06Pltch",
-      "popularity": 76,
-      "duration_ms": 317650,
+      "external_url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+      "popularity": 90,
+      "duration_ms": 290320,
       "audio_features": {
-        "popularity": 0.76,
-        "duration_normalized": 0.5294166666666666,
+        "popularity": 0.9,
+        "duration_normalized": 0.48386666666666667,
         "explicit": 0.0,
-        "energy_estimate": 0.95,
+        "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.76
+        "valence_estimate": 0.9
       }
     },
-    "3B54sVLJ402zGa6Xm4YGNe": {
-      "id": "3B54sVLJ402zGa6Xm4YGNe",
-      "name": "Unforgettable",
-      "artist": "French Montana, Swae Lee",
-      "album": "Jungle Rules",
+    "1x075F39Q0zOhjPzPKgG8E": {
+      "id": "1x075F39Q0zOhjPzPKgG8E",
+      "name": "Baby By Me",
+      "artist": "50 Cent, Ne-Yo",
+      "album": "Before I Self-Destruct",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe",
+      "external_url": "https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E",
+      "popularity": 81,
+      "duration_ms": 213360,
+      "audio_features": {
+        "popularity": 0.81,
+        "duration_normalized": 0.3556,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.81
+      }
+    },
+    "2FDTHlrBguDzQkp7PVj16Q": {
+      "id": "2FDTHlrBguDzQkp7PVj16Q",
+      "name": "Sprinter",
+      "artist": "Dave, Central Cee",
+      "album": "Sprinter",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q",
+      "popularity": 84,
+      "duration_ms": 229133,
+      "audio_features": {
+        "popularity": 0.84,
+        "duration_normalized": 0.38188833333333333,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.84
+      }
+    },
+    "2JzZzZUQj3Qff7wapcbKjc": {
+      "id": "2JzZzZUQj3Qff7wapcbKjc",
+      "name": "See You Again (feat. Charlie Puth)",
+      "artist": "Wiz Khalifa, Charlie Puth",
+      "album": "See You Again (feat. Charlie Puth)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc",
+      "popularity": 84,
+      "duration_ms": 229525,
+      "audio_features": {
+        "popularity": 0.84,
+        "duration_normalized": 0.38254166666666667,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.84
+      }
+    },
+    "1XBYiRV30ykHw5f4wm6qEn": {
+      "id": "1XBYiRV30ykHw5f4wm6qEn",
+      "name": "NIGHTS LIKE THIS",
+      "artist": "The Kid LAROI",
+      "album": "THE FIRST TIME",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn",
       "popularity": 89,
-      "duration_ms": 233901,
+      "duration_ms": 86983,
       "audio_features": {
         "popularity": 0.89,
-        "duration_normalized": 0.389835,
+        "duration_normalized": 0.14497166666666667,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.89
       }
     },
-    "030OCtLMrljNhp8OWHBWW3": {
-      "id": "030OCtLMrljNhp8OWHBWW3",
-      "name": "Hey Daddy (Daddy's Home)",
-      "artist": "USHER",
-      "album": "Raymond v Raymond (Expanded Edition)",
+    "0fiKmieZ6xzoolzNOC3Fxi": {
+      "id": "0fiKmieZ6xzoolzNOC3Fxi",
+      "name": "Sekuat Hatimu",
+      "artist": "Last Child",
+      "album": "Our Biggest Thing Ever",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3",
+      "external_url": "https://open.spotify.com/track/0fiKmieZ6xzoolzNOC3Fxi",
+      "popularity": 77,
+      "duration_ms": 283760,
+      "audio_features": {
+        "popularity": 0.77,
+        "duration_normalized": 0.4729333333333333,
+        "explicit": 0.0,
+        "energy_estimate": 0.9625,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.77
+      }
+    },
+    "1nfOP7xNHeFSPOlziXswJc": {
+      "id": "1nfOP7xNHeFSPOlziXswJc",
+      "name": "Hari Bersamanya",
+      "artist": "Sheila On 7",
+      "album": "Berlayar",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1nfOP7xNHeFSPOlziXswJc",
+      "popularity": 78,
+      "duration_ms": 232706,
+      "audio_features": {
+        "popularity": 0.78,
+        "duration_normalized": 0.3878433333333333,
+        "explicit": 0.0,
+        "energy_estimate": 0.975,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.78
+      }
+    },
+    "567e29TDzLwZwfDuEpGTwo": {
+      "id": "567e29TDzLwZwfDuEpGTwo",
+      "name": "STAY (with Justin Bieber)",
+      "artist": "The Kid LAROI, Justin Bieber",
+      "album": "F*CK LOVE 3+: OVER YOU",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo",
       "popularity": 82,
-      "duration_ms": 224093,
+      "duration_ms": 141805,
       "audio_features": {
         "popularity": 0.82,
-        "duration_normalized": 0.3734883333333333,
+        "duration_normalized": 0.23634166666666667,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.82
       }
     },
-    "0wULafSHeHYZFu54R9ZFRJ": {
-      "id": "0wULafSHeHYZFu54R9ZFRJ",
-      "name": "Mangu",
-      "artist": "Fourtwnty, Charita Utami",
-      "album": "Mangu",
+    "4w8niZpiMy6qz1mntFA5uM": {
+      "id": "4w8niZpiMy6qz1mntFA5uM",
+      "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+      "artist": "DJ Snake, Selena Gomez, Ozuna, Cardi B",
+      "album": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0wULafSHeHYZFu54R9ZFRJ",
-      "popularity": 87,
-      "duration_ms": 262469,
+      "external_url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM",
+      "popularity": 75,
+      "duration_ms": 212500,
       "audio_features": {
-        "popularity": 0.87,
-        "duration_normalized": 0.43744833333333333,
+        "popularity": 0.75,
+        "duration_normalized": 0.3541666666666667,
+        "explicit": 0.0,
+        "energy_estimate": 0.9375,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.75
+      }
+    },
+    "6AI3ezQ4o3HUoP6Dhudph3": {
+      "id": "6AI3ezQ4o3HUoP6Dhudph3",
+      "name": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "album": "Not Like Us",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+      "popularity": 94,
+      "duration_ms": 274192,
+      "audio_features": {
+        "popularity": 0.94,
+        "duration_normalized": 0.45698666666666665,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.87
+        "valence_estimate": 0.94
       }
     },
-    "6Hii26x3qDErVitnGW8QtO": {
-      "id": "6Hii26x3qDErVitnGW8QtO",
-      "name": "Runtuh",
-      "artist": "Feby Putri, Fiersa Besari",
-      "album": "Runtuh",
+    "0ITaSRuI0L1RNL7ZNYTTi7": {
+      "id": "0ITaSRuI0L1RNL7ZNYTTi7",
+      "name": "U Are My High (with Future)",
+      "artist": "DJ Snake, Future",
+      "album": "U Are My High (with Future)",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO",
-      "popularity": 83,
-      "duration_ms": 223973,
-      "audio_features": {
-        "popularity": 0.83,
-        "duration_normalized": 0.37328833333333333,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.83
-      }
-    },
-    "6zrnrcry6OHVFo3EDt6PYa": {
-      "id": "6zrnrcry6OHVFo3EDt6PYa",
-      "name": "Rahasia Hati",
-      "artist": "Nidji",
-      "album": "King of Soundtrack",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/6zrnrcry6OHVFo3EDt6PYa",
+      "external_url": "https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7",
       "popularity": 76,
-      "duration_ms": 250682,
+      "duration_ms": 211200,
       "audio_features": {
         "popularity": 0.76,
-        "duration_normalized": 0.41780333333333336,
+        "duration_normalized": 0.352,
         "explicit": 0.0,
         "energy_estimate": 0.95,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.76
-      }
-    },
-    "0KoiMHhqKLoL4xM54rcWYY": {
-      "id": "0KoiMHhqKLoL4xM54rcWYY",
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "artist": "DJ Snake, Selena Gomez, Ozuna, Cardi B",
-      "album": "Carte Blanche",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY",
-      "popularity": 78,
-      "duration_ms": 212500,
-      "audio_features": {
-        "popularity": 0.78,
-        "duration_normalized": 0.3541666666666667,
-        "explicit": 0.0,
-        "energy_estimate": 0.975,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.78
       }
     },
     "5UcVIU1tsbN7ZsOSpR8AFD": {
@@ -217,40 +271,94 @@
         "valence_estimate": 0.83
       }
     },
-    "0HiNUFD2ovdPC2p5tbnzCG": {
-      "id": "0HiNUFD2ovdPC2p5tbnzCG",
-      "name": "Kita",
-      "artist": "Sheila On 7",
-      "album": "Sheila On 7",
+    "3QaPy1KgI7nu9FJEQUgn6h": {
+      "id": "3QaPy1KgI7nu9FJEQUgn6h",
+      "name": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0HiNUFD2ovdPC2p5tbnzCG",
-      "popularity": 78,
-      "duration_ms": 276666,
+      "external_url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
+      "popularity": 96,
+      "duration_ms": 261466,
       "audio_features": {
-        "popularity": 0.78,
-        "duration_normalized": 0.46111,
+        "popularity": 0.96,
+        "duration_normalized": 0.43577666666666665,
         "explicit": 0.0,
-        "energy_estimate": 0.975,
+        "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.78
+        "valence_estimate": 0.96
       }
     },
-    "1rwGbGLDE0AkaH1UgUbufL": {
-      "id": "1rwGbGLDE0AkaH1UgUbufL",
-      "name": "Soulmate",
-      "artist": "Kahitna",
-      "album": "Soulmate",
+    "0O6g2QFUhuLqRzGqhyzrIu": {
+      "id": "0O6g2QFUhuLqRzGqhyzrIu",
+      "name": "Hitam Putih",
+      "artist": "Fourtwnty",
+      "album": "Lelaku",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1rwGbGLDE0AkaH1UgUbufL",
-      "popularity": 79,
-      "duration_ms": 211301,
+      "external_url": "https://open.spotify.com/track/0O6g2QFUhuLqRzGqhyzrIu",
+      "popularity": 82,
+      "duration_ms": 251000,
       "audio_features": {
-        "popularity": 0.79,
-        "duration_normalized": 0.35216833333333336,
+        "popularity": 0.82,
+        "duration_normalized": 0.41833333333333333,
         "explicit": 0.0,
-        "energy_estimate": 0.9875,
+        "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.79
+        "valence_estimate": 0.82
+      }
+    },
+    "2XHzzp1j4IfTNp1FTn7YFg": {
+      "id": "2XHzzp1j4IfTNp1FTn7YFg",
+      "name": "Love Me",
+      "artist": "Lil Wayne, Drake, Future",
+      "album": "I Am Not A Human Being II (Deluxe)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg",
+      "popularity": 88,
+      "duration_ms": 255053,
+      "audio_features": {
+        "popularity": 0.88,
+        "duration_normalized": 0.42508833333333335,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.88
+      }
+    },
+    "23EDUpNbiKcDwhUf9kBRo8": {
+      "id": "23EDUpNbiKcDwhUf9kBRo8",
+      "name": "Bad Girls Like You",
+      "artist": "Tobii",
+      "album": "Bad Girls Like You",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8",
+      "popularity": 76,
+      "duration_ms": 186000,
+      "audio_features": {
+        "popularity": 0.76,
+        "duration_normalized": 0.31,
+        "explicit": 0.0,
+        "energy_estimate": 0.95,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.76
+      }
+    },
+    "0gwOixLwtjRpnC52W7aHYR": {
+      "id": "0gwOixLwtjRpnC52W7aHYR",
+      "name": "Hapus Aku",
+      "artist": "Nidji",
+      "album": "Breakthru",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/0gwOixLwtjRpnC52W7aHYR",
+      "popularity": 76,
+      "duration_ms": 252540,
+      "audio_features": {
+        "popularity": 0.76,
+        "duration_normalized": 0.4209,
+        "explicit": 0.0,
+        "energy_estimate": 0.95,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.76
       }
     },
     "3ymuBMTviroWLuf1jMsMVf": {
@@ -271,6 +379,276 @@
         "valence_estimate": 0.79
       }
     },
+    "6Hii26x3qDErVitnGW8QtO": {
+      "id": "6Hii26x3qDErVitnGW8QtO",
+      "name": "Runtuh",
+      "artist": "Feby Putri, Fiersa Besari",
+      "album": "Runtuh",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO",
+      "popularity": 83,
+      "duration_ms": 223973,
+      "audio_features": {
+        "popularity": 0.83,
+        "duration_normalized": 0.37328833333333333,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.83
+      }
+    },
+    "1hGy2eLcmC8eKx7qr1tOqx": {
+      "id": "1hGy2eLcmC8eKx7qr1tOqx",
+      "name": "Beautiful Girls",
+      "artist": "Sean Kingston",
+      "album": "Beautiful Girls",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx",
+      "popularity": 83,
+      "duration_ms": 225373,
+      "audio_features": {
+        "popularity": 0.83,
+        "duration_normalized": 0.3756216666666667,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.83
+      }
+    },
+    "0g5EKLgdKvNlln7TNqBByK": {
+      "id": "0g5EKLgdKvNlln7TNqBByK",
+      "name": "Middle",
+      "artist": "DJ Snake, Bipolar Sunshine",
+      "album": "Encore",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK",
+      "popularity": 81,
+      "duration_ms": 220573,
+      "audio_features": {
+        "popularity": 0.81,
+        "duration_normalized": 0.3676216666666667,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.81
+      }
+    },
+    "6osaMSJh9NguagEDQcZaKx": {
+      "id": "6osaMSJh9NguagEDQcZaKx",
+      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
+      "artist": "DJ Snake, J Balvin, Tyga",
+      "album": "Carte Blanche",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx",
+      "popularity": 79,
+      "duration_ms": 185194,
+      "audio_features": {
+        "popularity": 0.79,
+        "duration_normalized": 0.3086566666666667,
+        "explicit": 0.0,
+        "energy_estimate": 0.9875,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.79
+      }
+    },
+    "6zrnrcry6OHVFo3EDt6PYa": {
+      "id": "6zrnrcry6OHVFo3EDt6PYa",
+      "name": "Rahasia Hati",
+      "artist": "Nidji",
+      "album": "King of Soundtrack",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/6zrnrcry6OHVFo3EDt6PYa",
+      "popularity": 76,
+      "duration_ms": 250682,
+      "audio_features": {
+        "popularity": 0.76,
+        "duration_normalized": 0.41780333333333336,
+        "explicit": 0.0,
+        "energy_estimate": 0.95,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.76
+      }
+    },
+    "2wAmparvQdtQemzY9I8PKv": {
+      "id": "2wAmparvQdtQemzY9I8PKv",
+      "name": "Y Que Fue?",
+      "artist": "Don Miguelo",
+      "album": "EMDP (The Last Album)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv",
+      "popularity": 78,
+      "duration_ms": 163759,
+      "audio_features": {
+        "popularity": 0.78,
+        "duration_normalized": 0.2729316666666667,
+        "explicit": 0.0,
+        "energy_estimate": 0.975,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.78
+      }
+    },
+    "1fDFHXcykq4iw8Gg7s5hG9": {
+      "id": "1fDFHXcykq4iw8Gg7s5hG9",
+      "name": "About You",
+      "artist": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9",
+      "popularity": 87,
+      "duration_ms": 326490,
+      "audio_features": {
+        "popularity": 0.87,
+        "duration_normalized": 0.54415,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.87
+      }
+    },
+    "742FUQO16gdvSWuFC6A40q": {
+      "id": "742FUQO16gdvSWuFC6A40q",
+      "name": "Bintang Di Surga",
+      "artist": "Noah",
+      "album": "Bintang di Surga",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/742FUQO16gdvSWuFC6A40q",
+      "popularity": 64,
+      "duration_ms": 301116,
+      "audio_features": {
+        "popularity": 0.64,
+        "duration_normalized": 0.50186,
+        "explicit": 0.0,
+        "energy_estimate": 0.8,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.64
+      }
+    },
+    "4Fv6wNYUixnYkj3Dgfrls8": {
+      "id": "4Fv6wNYUixnYkj3Dgfrls8",
+      "name": "Tumblr Girls (feat. Christoph Andersson)",
+      "artist": "G-Eazy, Christoph Andersson",
+      "album": "These Things Happen",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8",
+      "popularity": 83,
+      "duration_ms": 255680,
+      "audio_features": {
+        "popularity": 0.83,
+        "duration_normalized": 0.4261333333333333,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.83
+      }
+    },
+    "7J0isBrUxhIYZVdrBOOlIh": {
+      "id": "7J0isBrUxhIYZVdrBOOlIh",
+      "name": "Cincin",
+      "artist": "Hindia",
+      "album": "Lagipula Hidup Akan Berakhir",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh",
+      "popularity": 83,
+      "duration_ms": 266330,
+      "audio_features": {
+        "popularity": 0.83,
+        "duration_normalized": 0.44388333333333335,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.83
+      }
+    },
+    "3AJwUDP919kvQ9QcozQPxg": {
+      "id": "3AJwUDP919kvQ9QcozQPxg",
+      "name": "Yellow",
+      "artist": "Coldplay",
+      "album": "Parachutes",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
+      "popularity": 93,
+      "duration_ms": 266773,
+      "audio_features": {
+        "popularity": 0.93,
+        "duration_normalized": 0.4446216666666667,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.93
+      }
+    },
+    "3GCdLUSnKSMJhs4Tj6CV3s": {
+      "id": "3GCdLUSnKSMJhs4Tj6CV3s",
+      "name": "All The Stars (with SZA)",
+      "artist": "Kendrick Lamar, SZA",
+      "album": "Black Panther The Album Music From And Inspired By",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s",
+      "popularity": 94,
+      "duration_ms": 232186,
+      "audio_features": {
+        "popularity": 0.94,
+        "duration_normalized": 0.3869766666666667,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.94
+      }
+    },
+    "5496lks6V3fh1mZAB6IAap": {
+      "id": "5496lks6V3fh1mZAB6IAap",
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "artist": "Sevdaliza, Pabllo Vittar, Yseult",
+      "album": "Alibi (with Pabllo Vittar & Yseult)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap",
+      "popularity": 83,
+      "duration_ms": 161655,
+      "audio_features": {
+        "popularity": 0.83,
+        "duration_normalized": 0.269425,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.83
+      }
+    },
+    "7srCrWQW2U9cCnhnVEEx6j": {
+      "id": "7srCrWQW2U9cCnhnVEEx6j",
+      "name": "R.I.P (Rhyme In Peace)",
+      "artist": "Bondan Prakoso, Fade2Black",
+      "album": "Unity",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/7srCrWQW2U9cCnhnVEEx6j",
+      "popularity": 60,
+      "duration_ms": 268386,
+      "audio_features": {
+        "popularity": 0.6,
+        "duration_normalized": 0.44731,
+        "explicit": 0.0,
+        "energy_estimate": 0.75,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.6
+      }
+    },
+    "068AyhyvE67qMRsMXLqAnd": {
+      "id": "068AyhyvE67qMRsMXLqAnd",
+      "name": "Lady Killers II",
+      "artist": "G-Eazy",
+      "album": "Lady Killers II",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/068AyhyvE67qMRsMXLqAnd",
+      "popularity": 84,
+      "duration_ms": 297794,
+      "audio_features": {
+        "popularity": 0.84,
+        "duration_normalized": 0.49632333333333334,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.84
+      }
+    },
     "5B5eTk7DF8KVp1zpQoY1XY": {
       "id": "5B5eTk7DF8KVp1zpQoY1XY",
       "name": "The Reason",
@@ -289,94 +667,184 @@
         "valence_estimate": 0.85
       }
     },
-    "2aDgJHhAbABvdW9NszrAPQ": {
-      "id": "2aDgJHhAbABvdW9NszrAPQ",
-      "name": "Sialan",
-      "artist": "Adrian Khalif, Juicy Luicy",
-      "album": "Sialan",
+    "0BrH4b7su9uLELM1h5Xlzw": {
+      "id": "0BrH4b7su9uLELM1h5Xlzw",
+      "name": "Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "album": "Kenyataan Perasaan",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ",
-      "popularity": 72,
-      "duration_ms": 241088,
+      "external_url": "https://open.spotify.com/track/0BrH4b7su9uLELM1h5Xlzw",
+      "popularity": 76,
+      "duration_ms": 270671,
       "audio_features": {
-        "popularity": 0.72,
-        "duration_normalized": 0.40181333333333336,
+        "popularity": 0.76,
+        "duration_normalized": 0.45111833333333334,
         "explicit": 0.0,
-        "energy_estimate": 0.9,
+        "energy_estimate": 0.95,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.72
+        "valence_estimate": 0.76
       }
     },
-    "15JINEqzVMv3SvJTAXAKED": {
-      "id": "15JINEqzVMv3SvJTAXAKED",
-      "name": "Love The Way You Lie",
-      "artist": "Eminem, Rihanna",
-      "album": "Recovery",
+    "5XeFesFbtLpXzIVDNQP22n": {
+      "id": "5XeFesFbtLpXzIVDNQP22n",
+      "name": "I Wanna Be Yours",
+      "artist": "Arctic Monkeys",
+      "album": "AM",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
-      "popularity": 87,
-      "duration_ms": 263373,
+      "external_url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n",
+      "popularity": 94,
+      "duration_ms": 183956,
       "audio_features": {
-        "popularity": 0.87,
-        "duration_normalized": 0.438955,
+        "popularity": 0.94,
+        "duration_normalized": 0.30659333333333333,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.87
+        "valence_estimate": 0.94
       }
     },
-    "7KA4W4McWYRpgf0fWsJZWB": {
-      "id": "7KA4W4McWYRpgf0fWsJZWB",
-      "name": "See You Again (feat. Kali Uchis)",
-      "artist": "Tyler, The Creator, Kali Uchis",
-      "album": "Flower Boy",
+    "37IZHbmUmuhZITM4SW6PtV": {
+      "id": "37IZHbmUmuhZITM4SW6PtV",
+      "name": "My Bubble Gum",
+      "artist": "Rasheeda",
+      "album": "Dat Type Of Gurl",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB",
-      "popularity": 93,
-      "duration_ms": 180386,
+      "external_url": "https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV",
+      "popularity": 80,
+      "duration_ms": 208520,
       "audio_features": {
-        "popularity": 0.93,
-        "duration_normalized": 0.3006433333333333,
+        "popularity": 0.8,
+        "duration_normalized": 0.34753333333333336,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.93
+        "valence_estimate": 0.8
       }
     },
-    "4KL3FJYexPrPuMdPagHPXp": {
-      "id": "4KL3FJYexPrPuMdPagHPXp",
-      "name": "Yours",
-      "artist": "Raiden, CHANYEOL, LeeHi, CHANGMO",
-      "album": "Yours",
+    "630DpnzdfjdVqv2yLfPbAX": {
+      "id": "630DpnzdfjdVqv2yLfPbAX",
+      "name": "Bertaut",
+      "artist": "Nadin Amizah",
+      "album": "Selamat Ulang Tahun",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp",
-      "popularity": 64,
-      "duration_ms": 235413,
+      "external_url": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX",
+      "popularity": 82,
+      "duration_ms": 315960,
       "audio_features": {
-        "popularity": 0.64,
-        "duration_normalized": 0.392355,
+        "popularity": 0.82,
+        "duration_normalized": 0.5266,
         "explicit": 0.0,
-        "energy_estimate": 0.8,
+        "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.64
+        "valence_estimate": 0.82
       }
     },
-    "0MYAQRR7ZIIE1QD0rFgcMI": {
-      "id": "0MYAQRR7ZIIE1QD0rFgcMI",
-      "name": "Risalah Hati",
-      "artist": "Dewa 19, Yura Yunita",
-      "album": "Risalah Hati",
+    "3B54sVLJ402zGa6Xm4YGNe": {
+      "id": "3B54sVLJ402zGa6Xm4YGNe",
+      "name": "Unforgettable",
+      "artist": "French Montana, Swae Lee",
+      "album": "Jungle Rules",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0MYAQRR7ZIIE1QD0rFgcMI",
-      "popularity": 64,
-      "duration_ms": 345882,
+      "external_url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe",
+      "popularity": 89,
+      "duration_ms": 233901,
       "audio_features": {
-        "popularity": 0.64,
-        "duration_normalized": 0.57647,
+        "popularity": 0.89,
+        "duration_normalized": 0.389835,
         "explicit": 0.0,
-        "energy_estimate": 0.8,
+        "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.64
+        "valence_estimate": 0.89
+      }
+    },
+    "1MdjZzEInrmDBXf8zs0nKS": {
+      "id": "1MdjZzEInrmDBXf8zs0nKS",
+      "name": "Dan...",
+      "artist": "Sheila On 7",
+      "album": "Sheila On 7",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS",
+      "popularity": 82,
+      "duration_ms": 288706,
+      "audio_features": {
+        "popularity": 0.82,
+        "duration_normalized": 0.48117666666666664,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.82
+      }
+    },
+    "1Fi8jAQk4oVQKv2j7TPSz5": {
+      "id": "1Fi8jAQk4oVQKv2j7TPSz5",
+      "name": "Saat Saat Itu",
+      "artist": "Last Child",
+      "album": "Saat Saat Itu",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1Fi8jAQk4oVQKv2j7TPSz5",
+      "popularity": 66,
+      "duration_ms": 186009,
+      "audio_features": {
+        "popularity": 0.66,
+        "duration_normalized": 0.310015,
+        "explicit": 0.0,
+        "energy_estimate": 0.825,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.66
+      }
+    },
+    "6LF44wAs3h0K67RitTAfr5": {
+      "id": "6LF44wAs3h0K67RitTAfr5",
+      "name": "Sampai Akhir Waktu",
+      "artist": "Yovie & Nuno",
+      "album": "Winning 11",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/6LF44wAs3h0K67RitTAfr5",
+      "popularity": 76,
+      "duration_ms": 215373,
+      "audio_features": {
+        "popularity": 0.76,
+        "duration_normalized": 0.358955,
+        "explicit": 0.0,
+        "energy_estimate": 0.95,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.76
+      }
+    },
+    "3FwQ3RYYEekzjEeL3jdpUZ": {
+      "id": "3FwQ3RYYEekzjEeL3jdpUZ",
+      "name": "Pesan Terakhir",
+      "artist": "Lyodra",
+      "album": "Lyodra",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ",
+      "popularity": 82,
+      "duration_ms": 261299,
+      "audio_features": {
+        "popularity": 0.82,
+        "duration_normalized": 0.4354983333333333,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.82
+      }
+    },
+    "1BaGfrlIWinaF77p7QASBH": {
+      "id": "1BaGfrlIWinaF77p7QASBH",
+      "name": "Seberapa Pantas",
+      "artist": "Sheila On 7",
+      "album": "07 Des",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH",
+      "popularity": 76,
+      "duration_ms": 241293,
+      "audio_features": {
+        "popularity": 0.76,
+        "duration_normalized": 0.402155,
+        "explicit": 0.0,
+        "energy_estimate": 0.95,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.76
       }
     },
     "6dOtVTDdiauQNBQEDOtlAB": {
@@ -415,346 +883,22 @@
         "valence_estimate": 0.7
       }
     },
-    "4bf1MapeofdB3XKUqDMUOm": {
-      "id": "4bf1MapeofdB3XKUqDMUOm",
-      "name": "Kau Masih Kekasihku",
-      "artist": "NaFF",
-      "album": "Isyarat Hati",
+    "5drW6PGRxkE6MxttzVLNk5": {
+      "id": "5drW6PGRxkE6MxttzVLNk5",
+      "name": "Secukupnya",
+      "artist": "Hindia",
+      "album": "Menari Dengan Bayangan",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/4bf1MapeofdB3XKUqDMUOm",
-      "popularity": 79,
-      "duration_ms": 285173,
-      "audio_features": {
-        "popularity": 0.79,
-        "duration_normalized": 0.4752883333333333,
-        "explicit": 0.0,
-        "energy_estimate": 0.9875,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.79
-      }
-    },
-    "0CAfXk7DXMnon4gLudAp7J": {
-      "id": "0CAfXk7DXMnon4gLudAp7J",
-      "name": "Low (feat. T-Pain)",
-      "artist": "Flo Rida, T-Pain",
-      "album": "Mail on Sunday",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J",
-      "popularity": 87,
-      "duration_ms": 231400,
-      "audio_features": {
-        "popularity": 0.87,
-        "duration_normalized": 0.38566666666666666,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.87
-      }
-    },
-    "5j3QqRGflS4o5jbsFSwKW1": {
-      "id": "5j3QqRGflS4o5jbsFSwKW1",
-      "name": "Six Days - Remix",
-      "artist": "DJ Shadow, Mos Def",
-      "album": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1",
-      "popularity": 75,
-      "duration_ms": 232000,
-      "audio_features": {
-        "popularity": 0.75,
-        "duration_normalized": 0.38666666666666666,
-        "explicit": 0.0,
-        "energy_estimate": 0.9375,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.75
-      }
-    },
-    "0gwOixLwtjRpnC52W7aHYR": {
-      "id": "0gwOixLwtjRpnC52W7aHYR",
-      "name": "Hapus Aku",
-      "artist": "Nidji",
-      "album": "Breakthru",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0gwOixLwtjRpnC52W7aHYR",
-      "popularity": 76,
-      "duration_ms": 252540,
-      "audio_features": {
-        "popularity": 0.76,
-        "duration_normalized": 0.4209,
-        "explicit": 0.0,
-        "energy_estimate": 0.95,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.76
-      }
-    },
-    "7er7WofjVw4QwPAyxH39jH": {
-      "id": "7er7WofjVw4QwPAyxH39jH",
-      "name": "Menjaga Hati",
-      "artist": "Yovie & Nuno",
-      "album": "The Special One",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH",
-      "popularity": 77,
-      "duration_ms": 237400,
-      "audio_features": {
-        "popularity": 0.77,
-        "duration_normalized": 0.39566666666666667,
-        "explicit": 0.0,
-        "energy_estimate": 0.9625,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.77
-      }
-    },
-    "6MYOhVJOLDtwXTEziq1KaR": {
-      "id": "6MYOhVJOLDtwXTEziq1KaR",
-      "name": "Cinta Tak Bersyarat - Remastered 2021",
-      "artist": "Element",
-      "album": "Neo Resonansi (Remastered 2021)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/6MYOhVJOLDtwXTEziq1KaR",
-      "popularity": 67,
-      "duration_ms": 217843,
-      "audio_features": {
-        "popularity": 0.67,
-        "duration_normalized": 0.3630716666666667,
-        "explicit": 0.0,
-        "energy_estimate": 0.8375,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.67
-      }
-    },
-    "35pyjflc2ZpxxpdmgSDn3D": {
-      "id": "35pyjflc2ZpxxpdmgSDn3D",
-      "name": "Bunga",
-      "artist": "Bondan Prakoso, Fade2Black",
-      "album": "Respect",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/35pyjflc2ZpxxpdmgSDn3D",
-      "popularity": 64,
-      "duration_ms": 231293,
-      "audio_features": {
-        "popularity": 0.64,
-        "duration_normalized": 0.3854883333333333,
-        "explicit": 0.0,
-        "energy_estimate": 0.8,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.64
-      }
-    },
-    "1SKPmfSYaPsETbRHaiA18G": {
-      "id": "1SKPmfSYaPsETbRHaiA18G",
-      "name": "Somewhere Only We Know",
-      "artist": "Keane",
-      "album": "Hopes And Fears",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G",
-      "popularity": 88,
-      "duration_ms": 237146,
-      "audio_features": {
-        "popularity": 0.88,
-        "duration_normalized": 0.39524333333333334,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.88
-      }
-    },
-    "5HCyWlXZPP0y6Gqq8TgA20": {
-      "id": "5HCyWlXZPP0y6Gqq8TgA20",
-      "name": "STAY (with Justin Bieber)",
-      "artist": "The Kid LAROI, Justin Bieber",
-      "album": "STAY (with Justin Bieber)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20",
-      "popularity": 83,
-      "duration_ms": 141805,
-      "audio_features": {
-        "popularity": 0.83,
-        "duration_normalized": 0.23634166666666667,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.83
-      }
-    },
-    "0qjuyXWrksQxIRntqz9ZJV": {
-      "id": "0qjuyXWrksQxIRntqz9ZJV",
-      "name": "Tanpa Cinta",
-      "artist": "Yovie & Nuno",
-      "album": "Still The One",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV",
-      "popularity": 79,
-      "duration_ms": 256385,
-      "audio_features": {
-        "popularity": 0.79,
-        "duration_normalized": 0.42730833333333335,
-        "explicit": 0.0,
-        "energy_estimate": 0.9875,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.79
-      }
-    },
-    "7lQ8MOhq6IN2w8EYcFNSUk": {
-      "id": "7lQ8MOhq6IN2w8EYcFNSUk",
-      "name": "Without Me",
-      "artist": "Eminem",
-      "album": "The Eminem Show",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
-      "popularity": 90,
-      "duration_ms": 290320,
-      "audio_features": {
-        "popularity": 0.9,
-        "duration_normalized": 0.48386666666666667,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.9
-      }
-    },
-    "2UgCs0i0rNHUH2jKE5NZHE": {
-      "id": "2UgCs0i0rNHUH2jKE5NZHE",
-      "name": "Sempurna",
-      "artist": "Andra & The Backbone",
-      "album": "Andra & The Backbone",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE",
+      "external_url": "https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5",
       "popularity": 80,
-      "duration_ms": 268422,
+      "duration_ms": 205466,
       "audio_features": {
         "popularity": 0.8,
-        "duration_normalized": 0.44737,
+        "duration_normalized": 0.3424433333333333,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.8
-      }
-    },
-    "0OjiV7FpVCrOIq53ZSH1EM": {
-      "id": "0OjiV7FpVCrOIq53ZSH1EM",
-      "name": "Ya Sudahlah",
-      "artist": "Bondan Prakoso, Fade2Black",
-      "album": "For All",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0OjiV7FpVCrOIq53ZSH1EM",
-      "popularity": 67,
-      "duration_ms": 254293,
-      "audio_features": {
-        "popularity": 0.67,
-        "duration_normalized": 0.42382166666666665,
-        "explicit": 0.0,
-        "energy_estimate": 0.8375,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.67
-      }
-    },
-    "5496lks6V3fh1mZAB6IAap": {
-      "id": "5496lks6V3fh1mZAB6IAap",
-      "name": "Alibi (with Pabllo Vittar & Yseult)",
-      "artist": "Sevdaliza, Pabllo Vittar, Yseult",
-      "album": "Alibi (with Pabllo Vittar & Yseult)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap",
-      "popularity": 83,
-      "duration_ms": 161655,
-      "audio_features": {
-        "popularity": 0.83,
-        "duration_normalized": 0.269425,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.83
-      }
-    },
-    "1mruWrUwAVe2XkksUQiaHK": {
-      "id": "1mruWrUwAVe2XkksUQiaHK",
-      "name": "Selamat (Selamat Tinggal)",
-      "artist": "Virgoun, Audy",
-      "album": "Selamat (Selamat Tinggal)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK",
-      "popularity": 81,
-      "duration_ms": 313670,
-      "audio_features": {
-        "popularity": 0.81,
-        "duration_normalized": 0.5227833333333334,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.81
-      }
-    },
-    "6LF44wAs3h0K67RitTAfr5": {
-      "id": "6LF44wAs3h0K67RitTAfr5",
-      "name": "Sampai Akhir Waktu",
-      "artist": "Yovie & Nuno",
-      "album": "Winning 11",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/6LF44wAs3h0K67RitTAfr5",
-      "popularity": 76,
-      "duration_ms": 215373,
-      "audio_features": {
-        "popularity": 0.76,
-        "duration_normalized": 0.358955,
-        "explicit": 0.0,
-        "energy_estimate": 0.95,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.76
-      }
-    },
-    "5NmjnghJGJRFg34KGGx8O0": {
-      "id": "5NmjnghJGJRFg34KGGx8O0",
-      "name": "Seandainya",
-      "artist": "Vierra",
-      "album": "My First Love",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5NmjnghJGJRFg34KGGx8O0",
-      "popularity": 82,
-      "duration_ms": 263407,
-      "audio_features": {
-        "popularity": 0.82,
-        "duration_normalized": 0.4390116666666667,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.82
-      }
-    },
-    "68vgtRHr7iZHpzGpon6Jlo": {
-      "id": "68vgtRHr7iZHpzGpon6Jlo",
-      "name": "My Boo",
-      "artist": "USHER, Alicia Keys",
-      "album": "Confessions (Expanded Edition)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo",
-      "popularity": 83,
-      "duration_ms": 223440,
-      "audio_features": {
-        "popularity": 0.83,
-        "duration_normalized": 0.3724,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.83
-      }
-    },
-    "3QaPy1KgI7nu9FJEQUgn6h": {
-      "id": "3QaPy1KgI7nu9FJEQUgn6h",
-      "name": "WILDFLOWER",
-      "artist": "Billie Eilish",
-      "album": "HIT ME HARD AND SOFT",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
-      "popularity": 96,
-      "duration_ms": 261466,
-      "audio_features": {
-        "popularity": 0.96,
-        "duration_normalized": 0.43577666666666665,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.96
       }
     },
     "654ZF6YNWjQS2NhwR3QnX7": {
@@ -775,414 +919,144 @@
         "valence_estimate": 0.85
       }
     },
-    "2OxvanM5m1Na9OVlXyXmUp": {
-      "id": "2OxvanM5m1Na9OVlXyXmUp",
-      "name": "Lesung Pipi",
-      "artist": "Raim Laode",
-      "album": "Lesung Pipi",
+    "1rwGbGLDE0AkaH1UgUbufL": {
+      "id": "1rwGbGLDE0AkaH1UgUbufL",
+      "name": "Soulmate",
+      "artist": "Kahitna",
+      "album": "Soulmate",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp",
-      "popularity": 88,
-      "duration_ms": 225153,
+      "external_url": "https://open.spotify.com/track/1rwGbGLDE0AkaH1UgUbufL",
+      "popularity": 79,
+      "duration_ms": 211301,
       "audio_features": {
-        "popularity": 0.88,
-        "duration_normalized": 0.375255,
+        "popularity": 0.79,
+        "duration_normalized": 0.35216833333333336,
         "explicit": 0.0,
-        "energy_estimate": 1.0,
+        "energy_estimate": 0.9875,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.88
+        "valence_estimate": 0.79
       }
     },
-    "3USxtqRwSYz57Ewm6wWRMp": {
-      "id": "3USxtqRwSYz57Ewm6wWRMp",
-      "name": "Heat Waves",
-      "artist": "Glass Animals",
-      "album": "Dreamland",
+    "5MIpcd16T59wFeqAChSYwC": {
+      "id": "5MIpcd16T59wFeqAChSYwC",
+      "name": "Duka",
+      "artist": "Last Child",
+      "album": "Duka",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
-      "popularity": 89,
-      "duration_ms": 238805,
-      "audio_features": {
-        "popularity": 0.89,
-        "duration_normalized": 0.39800833333333335,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.89
-      }
-    },
-    "630DpnzdfjdVqv2yLfPbAX": {
-      "id": "630DpnzdfjdVqv2yLfPbAX",
-      "name": "Bertaut",
-      "artist": "Nadin Amizah",
-      "album": "Selamat Ulang Tahun",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX",
-      "popularity": 82,
-      "duration_ms": 315960,
-      "audio_features": {
-        "popularity": 0.82,
-        "duration_normalized": 0.5266,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.82
-      }
-    },
-    "4Fv6wNYUixnYkj3Dgfrls8": {
-      "id": "4Fv6wNYUixnYkj3Dgfrls8",
-      "name": "Tumblr Girls (feat. Christoph Andersson)",
-      "artist": "G-Eazy, Christoph Andersson",
-      "album": "These Things Happen",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8",
+      "external_url": "https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC",
       "popularity": 83,
-      "duration_ms": 255680,
+      "duration_ms": 325147,
       "audio_features": {
         "popularity": 0.83,
-        "duration_normalized": 0.4261333333333333,
+        "duration_normalized": 0.5419116666666667,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.83
       }
     },
-    "5UTItcwQqhIdwste0mR0na": {
-      "id": "5UTItcwQqhIdwste0mR0na",
-      "name": "Kroncong Protol",
+    "35pyjflc2ZpxxpdmgSDn3D": {
+      "id": "35pyjflc2ZpxxpdmgSDn3D",
+      "name": "Bunga",
       "artist": "Bondan Prakoso, Fade2Black",
-      "album": "Unity",
+      "album": "Respect",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5UTItcwQqhIdwste0mR0na",
-      "popularity": 61,
-      "duration_ms": 249680,
+      "external_url": "https://open.spotify.com/track/35pyjflc2ZpxxpdmgSDn3D",
+      "popularity": 64,
+      "duration_ms": 231293,
       "audio_features": {
-        "popularity": 0.61,
-        "duration_normalized": 0.41613333333333336,
+        "popularity": 0.64,
+        "duration_normalized": 0.3854883333333333,
         "explicit": 0.0,
-        "energy_estimate": 0.7625,
+        "energy_estimate": 0.8,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.61
+        "valence_estimate": 0.64
       }
     },
-    "1ylY6UrF7cmOZ9GDOxrfk8": {
-      "id": "1ylY6UrF7cmOZ9GDOxrfk8",
-      "name": "Bila Kau Tak Disampingku",
+    "0HiNUFD2ovdPC2p5tbnzCG": {
+      "id": "0HiNUFD2ovdPC2p5tbnzCG",
+      "name": "Kita",
       "artist": "Sheila On 7",
-      "album": "Kisah Klasik Untuk Masa Depan",
+      "album": "Sheila On 7",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1ylY6UrF7cmOZ9GDOxrfk8",
-      "popularity": 84,
-      "duration_ms": 256173,
+      "external_url": "https://open.spotify.com/track/0HiNUFD2ovdPC2p5tbnzCG",
+      "popularity": 78,
+      "duration_ms": 276666,
       "audio_features": {
-        "popularity": 0.84,
-        "duration_normalized": 0.426955,
+        "popularity": 0.78,
+        "duration_normalized": 0.46111,
+        "explicit": 0.0,
+        "energy_estimate": 0.975,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.78
+      }
+    },
+    "5O2P9iiztwhomNh8xkR9lJ": {
+      "id": "5O2P9iiztwhomNh8xkR9lJ",
+      "name": "Night Changes",
+      "artist": "One Direction",
+      "album": "FOUR (Deluxe)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ",
+      "popularity": 90,
+      "duration_ms": 226600,
+      "audio_features": {
+        "popularity": 0.9,
+        "duration_normalized": 0.37766666666666665,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.84
+        "valence_estimate": 0.9
       }
     },
-    "6JjPBQfI2Y8nIjnm65X6Pw": {
-      "id": "6JjPBQfI2Y8nIjnm65X6Pw",
-      "name": "X (feat. Maluma & Ozuna) - Remix",
-      "artist": "Nicky Jam, J Balvin, Maluma, Ozuna",
-      "album": "X (feat. Maluma & Ozuna) [Remix]",
+    "7er7WofjVw4QwPAyxH39jH": {
+      "id": "7er7WofjVw4QwPAyxH39jH",
+      "name": "Menjaga Hati",
+      "artist": "Yovie & Nuno",
+      "album": "The Special One",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw",
-      "popularity": 86,
-      "duration_ms": 235746,
-      "audio_features": {
-        "popularity": 0.86,
-        "duration_normalized": 0.39291,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.86
-      }
-    },
-    "1fDFHXcykq4iw8Gg7s5hG9": {
-      "id": "1fDFHXcykq4iw8Gg7s5hG9",
-      "name": "About You",
-      "artist": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9",
-      "popularity": 87,
-      "duration_ms": 326490,
-      "audio_features": {
-        "popularity": 0.87,
-        "duration_normalized": 0.54415,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.87
-      }
-    },
-    "1hGy2eLcmC8eKx7qr1tOqx": {
-      "id": "1hGy2eLcmC8eKx7qr1tOqx",
-      "name": "Beautiful Girls",
-      "artist": "Sean Kingston",
-      "album": "Beautiful Girls",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx",
-      "popularity": 83,
-      "duration_ms": 225373,
-      "audio_features": {
-        "popularity": 0.83,
-        "duration_normalized": 0.3756216666666667,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.83
-      }
-    },
-    "1yeB8MUNeLo9Ek1UEpsyz6": {
-      "id": "1yeB8MUNeLo9Ek1UEpsyz6",
-      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
-      "artist": "Drake, Sexyy Red, SZA",
-      "album": "For All The Dogs",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6",
-      "popularity": 81,
-      "duration_ms": 319191,
-      "audio_features": {
-        "popularity": 0.81,
-        "duration_normalized": 0.531985,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.81
-      }
-    },
-    "2vzpoecVhBE1pKtHzKONaN": {
-      "id": "2vzpoecVhBE1pKtHzKONaN",
-      "name": "Seluruh Nafas Ini",
-      "artist": "Last Child, Gisel",
-      "album": "Our Biggest Thing Ever",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/2vzpoecVhBE1pKtHzKONaN",
+      "external_url": "https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH",
       "popularity": 77,
-      "duration_ms": 292337,
+      "duration_ms": 237400,
       "audio_features": {
         "popularity": 0.77,
-        "duration_normalized": 0.4872283333333333,
+        "duration_normalized": 0.39566666666666667,
         "explicit": 0.0,
         "energy_estimate": 0.9625,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.77
       }
     },
-    "4j4F6vkb8niNvoXA7MPP2d": {
-      "id": "4j4F6vkb8niNvoXA7MPP2d",
-      "name": "Mungkin Nanti",
-      "artist": "Noah",
-      "album": "Bintang di Surga",
+    "1ZPVEo8RfmrEz8YAD5n6rW": {
+      "id": "1ZPVEo8RfmrEz8YAD5n6rW",
+      "name": "Lantas",
+      "artist": "Juicy Luicy",
+      "album": "Sentimental",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/4j4F6vkb8niNvoXA7MPP2d",
-      "popularity": 66,
-      "duration_ms": 269351,
-      "audio_features": {
-        "popularity": 0.66,
-        "duration_normalized": 0.4489183333333333,
-        "explicit": 0.0,
-        "energy_estimate": 0.825,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.66
-      }
-    },
-    "6IPNp9PfaEqrzotY47TIWy": {
-      "id": "6IPNp9PfaEqrzotY47TIWy",
-      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-      "artist": "DJ Snake, Ozuna, Megan Thee Stallion, LISA",
-      "album": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy",
-      "popularity": 70,
-      "duration_ms": 225600,
-      "audio_features": {
-        "popularity": 0.7,
-        "duration_normalized": 0.376,
-        "explicit": 0.0,
-        "energy_estimate": 0.875,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.7
-      }
-    },
-    "4vVTI94F9uJ8lHNDWKv0i2": {
-      "id": "4vVTI94F9uJ8lHNDWKv0i2",
-      "name": "Eenie Meenie",
-      "artist": "Sean Kingston, Justin Bieber",
-      "album": "Eenie Meenie",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2",
+      "external_url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW",
       "popularity": 82,
-      "duration_ms": 201946,
+      "duration_ms": 234204,
       "audio_features": {
         "popularity": 0.82,
-        "duration_normalized": 0.3365766666666667,
+        "duration_normalized": 0.39034,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.82
       }
     },
-    "6BoyG3bQ8rjDdqatMg5IWM": {
-      "id": "6BoyG3bQ8rjDdqatMg5IWM",
-      "name": "Akhirnya Ku Menemukanmu",
-      "artist": "NaFF",
-      "album": "Isyarat Hati",
+    "0KoiMHhqKLoL4xM54rcWYY": {
+      "id": "0KoiMHhqKLoL4xM54rcWYY",
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "artist": "DJ Snake, Selena Gomez, Ozuna, Cardi B",
+      "album": "Carte Blanche",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/6BoyG3bQ8rjDdqatMg5IWM",
-      "popularity": 76,
-      "duration_ms": 306213,
-      "audio_features": {
-        "popularity": 0.76,
-        "duration_normalized": 0.510355,
-        "explicit": 0.0,
-        "energy_estimate": 0.95,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.76
-      }
-    },
-    "3GCdLUSnKSMJhs4Tj6CV3s": {
-      "id": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "name": "All The Stars (with SZA)",
-      "artist": "Kendrick Lamar, SZA",
-      "album": "Black Panther The Album Music From And Inspired By",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s",
-      "popularity": 94,
-      "duration_ms": 232186,
-      "audio_features": {
-        "popularity": 0.94,
-        "duration_normalized": 0.3869766666666667,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.94
-      }
-    },
-    "4e6TmHCC4PRUj75knNplNP": {
-      "id": "4e6TmHCC4PRUj75knNplNP",
-      "name": "Mangu",
-      "artist": "Fourtwnty, Charita Utami",
-      "album": "Nalar",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP",
-      "popularity": 87,
-      "duration_ms": 261048,
-      "audio_features": {
-        "popularity": 0.87,
-        "duration_normalized": 0.43508,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.87
-      }
-    },
-    "7J0isBrUxhIYZVdrBOOlIh": {
-      "id": "7J0isBrUxhIYZVdrBOOlIh",
-      "name": "Cincin",
-      "artist": "Hindia",
-      "album": "Lagipula Hidup Akan Berakhir",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh",
-      "popularity": 82,
-      "duration_ms": 266330,
-      "audio_features": {
-        "popularity": 0.82,
-        "duration_normalized": 0.44388333333333335,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.82
-      }
-    },
-    "37IZHbmUmuhZITM4SW6PtV": {
-      "id": "37IZHbmUmuhZITM4SW6PtV",
-      "name": "My Bubble Gum",
-      "artist": "Rasheeda",
-      "album": "Dat Type Of Gurl",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV",
-      "popularity": 80,
-      "duration_ms": 208520,
-      "audio_features": {
-        "popularity": 0.8,
-        "duration_normalized": 0.34753333333333336,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.8
-      }
-    },
-    "0otRX6Z89qKkHkQ9OqJpKt": {
-      "id": "0otRX6Z89qKkHkQ9OqJpKt",
-      "name": "Car's Outside",
-      "artist": "James Arthur",
-      "album": "YOU",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt",
-      "popularity": 87,
-      "duration_ms": 248373,
-      "audio_features": {
-        "popularity": 0.87,
-        "duration_normalized": 0.413955,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.87
-      }
-    },
-    "3FwQ3RYYEekzjEeL3jdpUZ": {
-      "id": "3FwQ3RYYEekzjEeL3jdpUZ",
-      "name": "Pesan Terakhir",
-      "artist": "Lyodra",
-      "album": "Lyodra",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ",
-      "popularity": 82,
-      "duration_ms": 261299,
-      "audio_features": {
-        "popularity": 0.82,
-        "duration_normalized": 0.4354983333333333,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.82
-      }
-    },
-    "04tvOIuyk8y0QVA8Ta0UOd": {
-      "id": "04tvOIuyk8y0QVA8Ta0UOd",
-      "name": "Untuk Mencintaimu",
-      "artist": "Seventeen",
-      "album": "Lelaki Hebat",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd",
-      "popularity": 75,
-      "duration_ms": 209346,
-      "audio_features": {
-        "popularity": 0.75,
-        "duration_normalized": 0.34891,
-        "explicit": 0.0,
-        "energy_estimate": 0.9375,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.75
-      }
-    },
-    "5DqdesEfbRyOlSS3Tf6c29": {
-      "id": "5DqdesEfbRyOlSS3Tf6c29",
-      "name": "It's You",
-      "artist": "Ali Gatie",
-      "album": "YOU",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29",
+      "external_url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY",
       "popularity": 78,
-      "duration_ms": 212606,
+      "duration_ms": 212500,
       "audio_features": {
         "popularity": 0.78,
-        "duration_normalized": 0.35434333333333334,
+        "duration_normalized": 0.3541666666666667,
         "explicit": 0.0,
         "energy_estimate": 0.975,
         "danceability_estimate": 0.5,
@@ -1207,22 +1081,58 @@
         "valence_estimate": 0.66
       }
     },
-    "068AyhyvE67qMRsMXLqAnd": {
-      "id": "068AyhyvE67qMRsMXLqAnd",
-      "name": "Lady Killers II",
-      "artist": "G-Eazy",
-      "album": "Lady Killers II",
+    "0I3I9hgBRat6HR5Gzy26jx": {
+      "id": "0I3I9hgBRat6HR5Gzy26jx",
+      "name": "33x",
+      "artist": "Perunggu",
+      "album": "Memorandum",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/068AyhyvE67qMRsMXLqAnd",
+      "external_url": "https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx",
+      "popularity": 67,
+      "duration_ms": 434759,
+      "audio_features": {
+        "popularity": 0.67,
+        "duration_normalized": 0.7245983333333333,
+        "explicit": 0.0,
+        "energy_estimate": 0.8375,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.67
+      }
+    },
+    "1ylY6UrF7cmOZ9GDOxrfk8": {
+      "id": "1ylY6UrF7cmOZ9GDOxrfk8",
+      "name": "Bila Kau Tak Disampingku",
+      "artist": "Sheila On 7",
+      "album": "Kisah Klasik Untuk Masa Depan",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1ylY6UrF7cmOZ9GDOxrfk8",
       "popularity": 84,
-      "duration_ms": 297794,
+      "duration_ms": 256173,
       "audio_features": {
         "popularity": 0.84,
-        "duration_normalized": 0.49632333333333334,
+        "duration_normalized": 0.426955,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.84
+      }
+    },
+    "5UTItcwQqhIdwste0mR0na": {
+      "id": "5UTItcwQqhIdwste0mR0na",
+      "name": "Kroncong Protol",
+      "artist": "Bondan Prakoso, Fade2Black",
+      "album": "Unity",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/5UTItcwQqhIdwste0mR0na",
+      "popularity": 60,
+      "duration_ms": 249680,
+      "audio_features": {
+        "popularity": 0.6,
+        "duration_normalized": 0.41613333333333336,
+        "explicit": 0.0,
+        "energy_estimate": 0.75,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.6
       }
     },
     "0zJIPpVcHKWqmf2FaKXbQQ": {
@@ -1243,454 +1153,58 @@
         "valence_estimate": 0.76
       }
     },
-    "2JzZzZUQj3Qff7wapcbKjc": {
-      "id": "2JzZzZUQj3Qff7wapcbKjc",
-      "name": "See You Again (feat. Charlie Puth)",
-      "artist": "Wiz Khalifa, Charlie Puth",
-      "album": "See You Again (feat. Charlie Puth)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc",
-      "popularity": 84,
-      "duration_ms": 229525,
-      "audio_features": {
-        "popularity": 0.84,
-        "duration_normalized": 0.38254166666666667,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.84
-      }
-    },
-    "6cChz3Pak7UtjuVJJRZmCm": {
-      "id": "6cChz3Pak7UtjuVJJRZmCm",
+    "2aDgJHhAbABvdW9NszrAPQ": {
+      "id": "2aDgJHhAbABvdW9NszrAPQ",
       "name": "Sialan",
       "artist": "Adrian Khalif, Juicy Luicy",
-      "album": "HARAP-HARAP EMAS",
+      "album": "Sialan",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/6cChz3Pak7UtjuVJJRZmCm",
-      "popularity": 76,
+      "external_url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ",
+      "popularity": 72,
       "duration_ms": 241088,
       "audio_features": {
-        "popularity": 0.76,
+        "popularity": 0.72,
         "duration_normalized": 0.40181333333333336,
         "explicit": 0.0,
-        "energy_estimate": 0.95,
+        "energy_estimate": 0.9,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.76
+        "valence_estimate": 0.72
       }
     },
-    "1Fi8jAQk4oVQKv2j7TPSz5": {
-      "id": "1Fi8jAQk4oVQKv2j7TPSz5",
-      "name": "Saat Saat Itu",
-      "artist": "Last Child",
-      "album": "Saat Saat Itu",
+    "26cvTWJq2E1QqN4jyH2OTU": {
+      "id": "26cvTWJq2E1QqN4jyH2OTU",
+      "name": "Tak Segampang Itu",
+      "artist": "Anggi Marito",
+      "album": "Tak Segampang Itu",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1Fi8jAQk4oVQKv2j7TPSz5",
-      "popularity": 66,
-      "duration_ms": 186009,
-      "audio_features": {
-        "popularity": 0.66,
-        "duration_normalized": 0.310015,
-        "explicit": 0.0,
-        "energy_estimate": 0.825,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.66
-      }
-    },
-    "1BaGfrlIWinaF77p7QASBH": {
-      "id": "1BaGfrlIWinaF77p7QASBH",
-      "name": "Seberapa Pantas",
-      "artist": "Sheila On 7",
-      "album": "07 Des",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH",
-      "popularity": 76,
-      "duration_ms": 241293,
-      "audio_features": {
-        "popularity": 0.76,
-        "duration_normalized": 0.402155,
-        "explicit": 0.0,
-        "energy_estimate": 0.95,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.76
-      }
-    },
-    "3AJwUDP919kvQ9QcozQPxg": {
-      "id": "3AJwUDP919kvQ9QcozQPxg",
-      "name": "Yellow",
-      "artist": "Coldplay",
-      "album": "Parachutes",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
-      "popularity": 93,
-      "duration_ms": 266773,
-      "audio_features": {
-        "popularity": 0.93,
-        "duration_normalized": 0.4446216666666667,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.93
-      }
-    },
-    "5XeFesFbtLpXzIVDNQP22n": {
-      "id": "5XeFesFbtLpXzIVDNQP22n",
-      "name": "I Wanna Be Yours",
-      "artist": "Arctic Monkeys",
-      "album": "AM",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n",
-      "popularity": 94,
-      "duration_ms": 183956,
-      "audio_features": {
-        "popularity": 0.94,
-        "duration_normalized": 0.30659333333333333,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.94
-      }
-    },
-    "4w8niZpiMy6qz1mntFA5uM": {
-      "id": "4w8niZpiMy6qz1mntFA5uM",
-      "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
-      "artist": "DJ Snake, Selena Gomez, Ozuna, Cardi B",
-      "album": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM",
-      "popularity": 75,
-      "duration_ms": 212500,
-      "audio_features": {
-        "popularity": 0.75,
-        "duration_normalized": 0.3541666666666667,
-        "explicit": 0.0,
-        "energy_estimate": 0.9375,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.75
-      }
-    },
-    "561jH07mF1jHuk7KlaeF0s": {
-      "id": "561jH07mF1jHuk7KlaeF0s",
-      "name": "Mockingbird",
-      "artist": "Eminem",
-      "album": "Encore (Deluxe Version)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s",
-      "popularity": 88,
-      "duration_ms": 250760,
-      "audio_features": {
-        "popularity": 0.88,
-        "duration_normalized": 0.4179333333333333,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.88
-      }
-    },
-    "6osaMSJh9NguagEDQcZaKx": {
-      "id": "6osaMSJh9NguagEDQcZaKx",
-      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
-      "artist": "DJ Snake, J Balvin, Tyga",
-      "album": "Carte Blanche",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx",
-      "popularity": 79,
-      "duration_ms": 185194,
-      "audio_features": {
-        "popularity": 0.79,
-        "duration_normalized": 0.3086566666666667,
-        "explicit": 0.0,
-        "energy_estimate": 0.9875,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.79
-      }
-    },
-    "2FDTHlrBguDzQkp7PVj16Q": {
-      "id": "2FDTHlrBguDzQkp7PVj16Q",
-      "name": "Sprinter",
-      "artist": "Dave, Central Cee",
-      "album": "Sprinter",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q",
-      "popularity": 84,
-      "duration_ms": 229133,
-      "audio_features": {
-        "popularity": 0.84,
-        "duration_normalized": 0.38188833333333333,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.84
-      }
-    },
-    "5aWFlKLE7TWoIpxX9oPAiR": {
-      "id": "5aWFlKLE7TWoIpxX9oPAiR",
-      "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
-      "artist": "Sevdaliza, Villano Antillano, Tokischa",
-      "album": "Ride Or Die, Pt. 2",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5aWFlKLE7TWoIpxX9oPAiR",
-      "popularity": 70,
-      "duration_ms": 158728,
-      "audio_features": {
-        "popularity": 0.7,
-        "duration_normalized": 0.26454666666666665,
-        "explicit": 0.0,
-        "energy_estimate": 0.875,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.7
-      }
-    },
-    "3azJifCSqg9fRij2yKIbWz": {
-      "id": "3azJifCSqg9fRij2yKIbWz",
-      "name": "The Color Violet",
-      "artist": "Tory Lanez",
-      "album": "Alone At Prom",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz",
-      "popularity": 87,
-      "duration_ms": 226466,
-      "audio_features": {
-        "popularity": 0.87,
-        "duration_normalized": 0.37744333333333335,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.87
-      }
-    },
-    "3nqqDo8CcCLke3ZoTgiOKf": {
-      "id": "3nqqDo8CcCLke3ZoTgiOKf",
-      "name": "The Man Who Can't Be Moved",
-      "artist": "The Script",
-      "album": "The Script",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf",
-      "popularity": 87,
-      "duration_ms": 241373,
-      "audio_features": {
-        "popularity": 0.87,
-        "duration_normalized": 0.40228833333333336,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.87
-      }
-    },
-    "2wAmparvQdtQemzY9I8PKv": {
-      "id": "2wAmparvQdtQemzY9I8PKv",
-      "name": "Y Que Fue?",
-      "artist": "Don Miguelo",
-      "album": "EMDP (The Last Album)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv",
-      "popularity": 78,
-      "duration_ms": 163759,
-      "audio_features": {
-        "popularity": 0.78,
-        "duration_normalized": 0.2729316666666667,
-        "explicit": 0.0,
-        "energy_estimate": 0.975,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.78
-      }
-    },
-    "5drW6PGRxkE6MxttzVLNk5": {
-      "id": "5drW6PGRxkE6MxttzVLNk5",
-      "name": "Secukupnya",
-      "artist": "Hindia",
-      "album": "Menari Dengan Bayangan",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5",
-      "popularity": 80,
-      "duration_ms": 205466,
-      "audio_features": {
-        "popularity": 0.8,
-        "duration_normalized": 0.3424433333333333,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.8
-      }
-    },
-    "2wAiFWjRupWmnDkQcu91MF": {
-      "id": "2wAiFWjRupWmnDkQcu91MF",
-      "name": "Rumah Ke Rumah",
-      "artist": "Hindia",
-      "album": "Menari Dengan Bayangan",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF",
-      "popularity": 84,
-      "duration_ms": 277457,
-      "audio_features": {
-        "popularity": 0.84,
-        "duration_normalized": 0.46242833333333333,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.84
-      }
-    },
-    "1x075F39Q0zOhjPzPKgG8E": {
-      "id": "1x075F39Q0zOhjPzPKgG8E",
-      "name": "Baby By Me",
-      "artist": "50 Cent, Ne-Yo",
-      "album": "Before I Self-Destruct",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E",
-      "popularity": 81,
-      "duration_ms": 213360,
-      "audio_features": {
-        "popularity": 0.81,
-        "duration_normalized": 0.3556,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.81
-      }
-    },
-    "0EQBfsLlv47ie3p0fE1QEs": {
-      "id": "0EQBfsLlv47ie3p0fE1QEs",
-      "name": "Kalibata, 2012",
-      "artist": "Perunggu",
-      "album": "Memorandum",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0EQBfsLlv47ie3p0fE1QEs",
-      "popularity": 67,
-      "duration_ms": 301606,
-      "audio_features": {
-        "popularity": 0.67,
-        "duration_normalized": 0.5026766666666667,
-        "explicit": 0.0,
-        "energy_estimate": 0.8375,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.67
-      }
-    },
-    "5O2P9iiztwhomNh8xkR9lJ": {
-      "id": "5O2P9iiztwhomNh8xkR9lJ",
-      "name": "Night Changes",
-      "artist": "One Direction",
-      "album": "FOUR (Deluxe)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ",
-      "popularity": 90,
-      "duration_ms": 226600,
-      "audio_features": {
-        "popularity": 0.9,
-        "duration_normalized": 0.37766666666666665,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.9
-      }
-    },
-    "0O6g2QFUhuLqRzGqhyzrIu": {
-      "id": "0O6g2QFUhuLqRzGqhyzrIu",
-      "name": "Hitam Putih",
-      "artist": "Fourtwnty",
-      "album": "Lelaku",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0O6g2QFUhuLqRzGqhyzrIu",
+      "external_url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU",
       "popularity": 82,
-      "duration_ms": 251000,
+      "duration_ms": 231100,
       "audio_features": {
         "popularity": 0.82,
-        "duration_normalized": 0.41833333333333333,
+        "duration_normalized": 0.38516666666666666,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
         "valence_estimate": 0.82
       }
     },
-    "2ZzsUu74KQFwnkBIOryp0d": {
-      "id": "2ZzsUu74KQFwnkBIOryp0d",
-      "name": "Rahasia Hati - Remastered 2023",
-      "artist": "Element",
-      "album": "Perjalanan 1999 - 2003 (Remastered 2023)",
+    "5Y77SQxEr1eiofPeUTPHxM": {
+      "id": "5Y77SQxEr1eiofPeUTPHxM",
+      "name": "You",
+      "artist": "Lloyd, Lil Wayne",
+      "album": "Street Love",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/2ZzsUu74KQFwnkBIOryp0d",
-      "popularity": 76,
-      "duration_ms": 190151,
+      "external_url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM",
+      "popularity": 83,
+      "duration_ms": 273133,
       "audio_features": {
-        "popularity": 0.76,
-        "duration_normalized": 0.31691833333333336,
+        "popularity": 0.83,
+        "duration_normalized": 0.4552216666666667,
         "explicit": 0.0,
-        "energy_estimate": 0.95,
+        "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.76
-      }
-    },
-    "0fiKmieZ6xzoolzNOC3Fxi": {
-      "id": "0fiKmieZ6xzoolzNOC3Fxi",
-      "name": "Sekuat Hatimu",
-      "artist": "Last Child",
-      "album": "Our Biggest Thing Ever",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0fiKmieZ6xzoolzNOC3Fxi",
-      "popularity": 77,
-      "duration_ms": 283760,
-      "audio_features": {
-        "popularity": 0.77,
-        "duration_normalized": 0.4729333333333333,
-        "explicit": 0.0,
-        "energy_estimate": 0.9625,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.77
-      }
-    },
-    "0ITaSRuI0L1RNL7ZNYTTi7": {
-      "id": "0ITaSRuI0L1RNL7ZNYTTi7",
-      "name": "U Are My High (with Future)",
-      "artist": "DJ Snake, Future",
-      "album": "U Are My High (with Future)",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7",
-      "popularity": 76,
-      "duration_ms": 211200,
-      "audio_features": {
-        "popularity": 0.76,
-        "duration_normalized": 0.352,
-        "explicit": 0.0,
-        "energy_estimate": 0.95,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.76
-      }
-    },
-    "0I3I9hgBRat6HR5Gzy26jx": {
-      "id": "0I3I9hgBRat6HR5Gzy26jx",
-      "name": "33x",
-      "artist": "Perunggu",
-      "album": "Memorandum",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx",
-      "popularity": 67,
-      "duration_ms": 434759,
-      "audio_features": {
-        "popularity": 0.67,
-        "duration_normalized": 0.7245983333333333,
-        "explicit": 0.0,
-        "energy_estimate": 0.8375,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.67
-      }
-    },
-    "742FUQO16gdvSWuFC6A40q": {
-      "id": "742FUQO16gdvSWuFC6A40q",
-      "name": "Bintang Di Surga",
-      "artist": "Noah",
-      "album": "Bintang di Surga",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/742FUQO16gdvSWuFC6A40q",
-      "popularity": 64,
-      "duration_ms": 301116,
-      "audio_features": {
-        "popularity": 0.64,
-        "duration_normalized": 0.50186,
-        "explicit": 0.0,
-        "energy_estimate": 0.8,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.64
+        "valence_estimate": 0.83
       }
     },
     "4GfK1qOF3uBWidbPlTCQRL": {
@@ -1711,22 +1225,400 @@
         "valence_estimate": 0.8
       }
     },
-    "5TTGoX70AFrTvuEtqHK37S": {
-      "id": "5TTGoX70AFrTvuEtqHK37S",
-      "name": "No. 1 Party Anthem",
-      "artist": "Arctic Monkeys",
-      "album": "AM",
+    "0MYAQRR7ZIIE1QD0rFgcMI": {
+      "id": "0MYAQRR7ZIIE1QD0rFgcMI",
+      "name": "Risalah Hati",
+      "artist": "Dewa 19, Yura Yunita",
+      "album": "Risalah Hati",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S",
-      "popularity": 90,
-      "duration_ms": 243131,
+      "external_url": "https://open.spotify.com/track/0MYAQRR7ZIIE1QD0rFgcMI",
+      "popularity": 64,
+      "duration_ms": 345882,
       "audio_features": {
-        "popularity": 0.9,
-        "duration_normalized": 0.40521833333333335,
+        "popularity": 0.64,
+        "duration_normalized": 0.57647,
+        "explicit": 0.0,
+        "energy_estimate": 0.8,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.64
+      }
+    },
+    "68vgtRHr7iZHpzGpon6Jlo": {
+      "id": "68vgtRHr7iZHpzGpon6Jlo",
+      "name": "My Boo",
+      "artist": "USHER, Alicia Keys",
+      "album": "Confessions (Expanded Edition)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo",
+      "popularity": 83,
+      "duration_ms": 223440,
+      "audio_features": {
+        "popularity": 0.83,
+        "duration_normalized": 0.3724,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.9
+        "valence_estimate": 0.83
+      }
+    },
+    "6BoyG3bQ8rjDdqatMg5IWM": {
+      "id": "6BoyG3bQ8rjDdqatMg5IWM",
+      "name": "Akhirnya Ku Menemukanmu",
+      "artist": "NaFF",
+      "album": "Isyarat Hati",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/6BoyG3bQ8rjDdqatMg5IWM",
+      "popularity": 76,
+      "duration_ms": 306213,
+      "audio_features": {
+        "popularity": 0.76,
+        "duration_normalized": 0.510355,
+        "explicit": 0.0,
+        "energy_estimate": 0.95,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.76
+      }
+    },
+    "5j3QqRGflS4o5jbsFSwKW1": {
+      "id": "5j3QqRGflS4o5jbsFSwKW1",
+      "name": "Six Days - Remix",
+      "artist": "DJ Shadow, Mos Def",
+      "album": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1",
+      "popularity": 75,
+      "duration_ms": 232000,
+      "audio_features": {
+        "popularity": 0.75,
+        "duration_normalized": 0.38666666666666666,
+        "explicit": 0.0,
+        "energy_estimate": 0.9375,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.75
+      }
+    },
+    "2wAiFWjRupWmnDkQcu91MF": {
+      "id": "2wAiFWjRupWmnDkQcu91MF",
+      "name": "Rumah Ke Rumah",
+      "artist": "Hindia",
+      "album": "Menari Dengan Bayangan",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF",
+      "popularity": 84,
+      "duration_ms": 277457,
+      "audio_features": {
+        "popularity": 0.84,
+        "duration_normalized": 0.46242833333333333,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.84
+      }
+    },
+    "1YMBg7rOjxzbya0fPOYfNX": {
+      "id": "1YMBg7rOjxzbya0fPOYfNX",
+      "name": "A Different Way (with Lauv)",
+      "artist": "DJ Snake, Lauv",
+      "album": "A Different Way (with Lauv)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1YMBg7rOjxzbya0fPOYfNX",
+      "popularity": 69,
+      "duration_ms": 198285,
+      "audio_features": {
+        "popularity": 0.69,
+        "duration_normalized": 0.330475,
+        "explicit": 0.0,
+        "energy_estimate": 0.8625,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.69
+      }
+    },
+    "6IPNp9PfaEqrzotY47TIWy": {
+      "id": "6IPNp9PfaEqrzotY47TIWy",
+      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+      "artist": "DJ Snake, Ozuna, Megan Thee Stallion, LISA",
+      "album": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy",
+      "popularity": 70,
+      "duration_ms": 225600,
+      "audio_features": {
+        "popularity": 0.7,
+        "duration_normalized": 0.376,
+        "explicit": 0.0,
+        "energy_estimate": 0.875,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.7
+      }
+    },
+    "3nqqDo8CcCLke3ZoTgiOKf": {
+      "id": "3nqqDo8CcCLke3ZoTgiOKf",
+      "name": "The Man Who Can't Be Moved",
+      "artist": "The Script",
+      "album": "The Script",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf",
+      "popularity": 87,
+      "duration_ms": 241373,
+      "audio_features": {
+        "popularity": 0.87,
+        "duration_normalized": 0.40228833333333336,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.87
+      }
+    },
+    "2OxvanM5m1Na9OVlXyXmUp": {
+      "id": "2OxvanM5m1Na9OVlXyXmUp",
+      "name": "Lesung Pipi",
+      "artist": "Raim Laode",
+      "album": "Lesung Pipi",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp",
+      "popularity": 88,
+      "duration_ms": 225153,
+      "audio_features": {
+        "popularity": 0.88,
+        "duration_normalized": 0.375255,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.88
+      }
+    },
+    "2ZzsUu74KQFwnkBIOryp0d": {
+      "id": "2ZzsUu74KQFwnkBIOryp0d",
+      "name": "Rahasia Hati - Remastered 2023",
+      "artist": "Element",
+      "album": "Perjalanan 1999 - 2003 (Remastered 2023)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/2ZzsUu74KQFwnkBIOryp0d",
+      "popularity": 76,
+      "duration_ms": 190151,
+      "audio_features": {
+        "popularity": 0.76,
+        "duration_normalized": 0.31691833333333336,
+        "explicit": 0.0,
+        "energy_estimate": 0.95,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.76
+      }
+    },
+    "6JjPBQfI2Y8nIjnm65X6Pw": {
+      "id": "6JjPBQfI2Y8nIjnm65X6Pw",
+      "name": "X (feat. Maluma & Ozuna) - Remix",
+      "artist": "Nicky Jam, J Balvin, Maluma, Ozuna",
+      "album": "X (feat. Maluma & Ozuna) [Remix]",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw",
+      "popularity": 86,
+      "duration_ms": 235746,
+      "audio_features": {
+        "popularity": 0.86,
+        "duration_normalized": 0.39291,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.86
+      }
+    },
+    "0otRX6Z89qKkHkQ9OqJpKt": {
+      "id": "0otRX6Z89qKkHkQ9OqJpKt",
+      "name": "Car's Outside",
+      "artist": "James Arthur",
+      "album": "YOU",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt",
+      "popularity": 87,
+      "duration_ms": 248373,
+      "audio_features": {
+        "popularity": 0.87,
+        "duration_normalized": 0.413955,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.87
+      }
+    },
+    "6cChz3Pak7UtjuVJJRZmCm": {
+      "id": "6cChz3Pak7UtjuVJJRZmCm",
+      "name": "Sialan",
+      "artist": "Adrian Khalif, Juicy Luicy",
+      "album": "HARAP-HARAP EMAS",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/6cChz3Pak7UtjuVJJRZmCm",
+      "popularity": 76,
+      "duration_ms": 241088,
+      "audio_features": {
+        "popularity": 0.76,
+        "duration_normalized": 0.40181333333333336,
+        "explicit": 0.0,
+        "energy_estimate": 0.95,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.76
+      }
+    },
+    "4j4F6vkb8niNvoXA7MPP2d": {
+      "id": "4j4F6vkb8niNvoXA7MPP2d",
+      "name": "Mungkin Nanti",
+      "artist": "Noah",
+      "album": "Bintang di Surga",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/4j4F6vkb8niNvoXA7MPP2d",
+      "popularity": 66,
+      "duration_ms": 269351,
+      "audio_features": {
+        "popularity": 0.66,
+        "duration_normalized": 0.4489183333333333,
+        "explicit": 0.0,
+        "energy_estimate": 0.825,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.66
+      }
+    },
+    "0lYBSQXN6rCTvUZvg9S0lU": {
+      "id": "0lYBSQXN6rCTvUZvg9S0lU",
+      "name": "Let Me Love You",
+      "artist": "DJ Snake, Justin Bieber",
+      "album": "Encore",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU",
+      "popularity": 89,
+      "duration_ms": 205946,
+      "audio_features": {
+        "popularity": 0.89,
+        "duration_normalized": 0.34324333333333334,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.89
+      }
+    },
+    "4vVTI94F9uJ8lHNDWKv0i2": {
+      "id": "4vVTI94F9uJ8lHNDWKv0i2",
+      "name": "Eenie Meenie",
+      "artist": "Sean Kingston, Justin Bieber",
+      "album": "Eenie Meenie",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2",
+      "popularity": 82,
+      "duration_ms": 201946,
+      "audio_features": {
+        "popularity": 0.82,
+        "duration_normalized": 0.3365766666666667,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.82
+      }
+    },
+    "1SKPmfSYaPsETbRHaiA18G": {
+      "id": "1SKPmfSYaPsETbRHaiA18G",
+      "name": "Somewhere Only We Know",
+      "artist": "Keane",
+      "album": "Hopes And Fears",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G",
+      "popularity": 88,
+      "duration_ms": 237146,
+      "audio_features": {
+        "popularity": 0.88,
+        "duration_normalized": 0.39524333333333334,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.88
+      }
+    },
+    "0CAfXk7DXMnon4gLudAp7J": {
+      "id": "0CAfXk7DXMnon4gLudAp7J",
+      "name": "Low (feat. T-Pain)",
+      "artist": "Flo Rida, T-Pain",
+      "album": "Mail on Sunday",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J",
+      "popularity": 87,
+      "duration_ms": 231400,
+      "audio_features": {
+        "popularity": 0.87,
+        "duration_normalized": 0.38566666666666666,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.87
+      }
+    },
+    "2UgCs0i0rNHUH2jKE5NZHE": {
+      "id": "2UgCs0i0rNHUH2jKE5NZHE",
+      "name": "Sempurna",
+      "artist": "Andra & The Backbone",
+      "album": "Andra & The Backbone",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE",
+      "popularity": 80,
+      "duration_ms": 268422,
+      "audio_features": {
+        "popularity": 0.8,
+        "duration_normalized": 0.44737,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.8
+      }
+    },
+    "7KA4W4McWYRpgf0fWsJZWB": {
+      "id": "7KA4W4McWYRpgf0fWsJZWB",
+      "name": "See You Again (feat. Kali Uchis)",
+      "artist": "Tyler, The Creator, Kali Uchis",
+      "album": "Flower Boy",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB",
+      "popularity": 93,
+      "duration_ms": 180386,
+      "audio_features": {
+        "popularity": 0.93,
+        "duration_normalized": 0.3006433333333333,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.93
+      }
+    },
+    "1yeB8MUNeLo9Ek1UEpsyz6": {
+      "id": "1yeB8MUNeLo9Ek1UEpsyz6",
+      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+      "artist": "Drake, Sexyy Red, SZA",
+      "album": "For All The Dogs",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6",
+      "popularity": 81,
+      "duration_ms": 319191,
+      "audio_features": {
+        "popularity": 0.81,
+        "duration_normalized": 0.531985,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.81
+      }
+    },
+    "3oJZHURvtmLvYa0eSI2rtY": {
+      "id": "3oJZHURvtmLvYa0eSI2rtY",
+      "name": "Tiba-Tiba Cinta Datang",
+      "artist": "Maudy Ayunda",
+      "album": "Panggil Aku…",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/3oJZHURvtmLvYa0eSI2rtY",
+      "popularity": 67,
+      "duration_ms": 242146,
+      "audio_features": {
+        "popularity": 0.67,
+        "duration_normalized": 0.40357666666666664,
+        "explicit": 0.0,
+        "energy_estimate": 0.8375,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.67
       }
     },
     "4v9JJX3ZzuFFOKrMOYHTVZ": {
@@ -1747,58 +1639,166 @@
         "valence_estimate": 0.75
       }
     },
-    "0g5EKLgdKvNlln7TNqBByK": {
-      "id": "0g5EKLgdKvNlln7TNqBByK",
-      "name": "Middle",
-      "artist": "DJ Snake, Bipolar Sunshine",
-      "album": "Encore",
-      "preview_url": null,
-      "external_url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK",
-      "popularity": 81,
-      "duration_ms": 220573,
-      "audio_features": {
-        "popularity": 0.81,
-        "duration_normalized": 0.3676216666666667,
-        "explicit": 0.0,
-        "energy_estimate": 1.0,
-        "danceability_estimate": 0.5,
-        "valence_estimate": 0.81
-      }
-    },
-    "7srCrWQW2U9cCnhnVEEx6j": {
-      "id": "7srCrWQW2U9cCnhnVEEx6j",
-      "name": "R.I.P (Rhyme In Peace)",
+    "0OjiV7FpVCrOIq53ZSH1EM": {
+      "id": "0OjiV7FpVCrOIq53ZSH1EM",
+      "name": "Ya Sudahlah",
       "artist": "Bondan Prakoso, Fade2Black",
-      "album": "Unity",
+      "album": "For All",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/7srCrWQW2U9cCnhnVEEx6j",
-      "popularity": 60,
-      "duration_ms": 268386,
+      "external_url": "https://open.spotify.com/track/0OjiV7FpVCrOIq53ZSH1EM",
+      "popularity": 67,
+      "duration_ms": 254293,
       "audio_features": {
-        "popularity": 0.6,
-        "duration_normalized": 0.44731,
+        "popularity": 0.67,
+        "duration_normalized": 0.42382166666666665,
         "explicit": 0.0,
-        "energy_estimate": 0.75,
+        "energy_estimate": 0.8375,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.6
+        "valence_estimate": 0.67
       }
     },
-    "2dIBMHByUGcNPzmYBJ6OAj": {
-      "id": "2dIBMHByUGcNPzmYBJ6OAj",
-      "name": "Evaluasi",
-      "artist": "Hindia",
-      "album": "Menari Dengan Bayangan",
+    "7gB98EWp4p9VKxOToaqrhM": {
+      "id": "7gB98EWp4p9VKxOToaqrhM",
+      "name": "Cinta Terakhir",
+      "artist": "Ari Lasso",
+      "album": "Selalu Ada",
       "preview_url": null,
-      "external_url": "https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj",
-      "popularity": 81,
-      "duration_ms": 194469,
+      "external_url": "https://open.spotify.com/track/7gB98EWp4p9VKxOToaqrhM",
+      "popularity": 75,
+      "duration_ms": 237586,
       "audio_features": {
-        "popularity": 0.81,
-        "duration_normalized": 0.324115,
+        "popularity": 0.75,
+        "duration_normalized": 0.39597666666666664,
+        "explicit": 0.0,
+        "energy_estimate": 0.9375,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.75
+      }
+    },
+    "5aWFlKLE7TWoIpxX9oPAiR": {
+      "id": "5aWFlKLE7TWoIpxX9oPAiR",
+      "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
+      "artist": "Sevdaliza, Villano Antillano, Tokischa",
+      "album": "Ride Or Die, Pt. 2",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/5aWFlKLE7TWoIpxX9oPAiR",
+      "popularity": 70,
+      "duration_ms": 158728,
+      "audio_features": {
+        "popularity": 0.7,
+        "duration_normalized": 0.26454666666666665,
+        "explicit": 0.0,
+        "energy_estimate": 0.875,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.7
+      }
+    },
+    "3USxtqRwSYz57Ewm6wWRMp": {
+      "id": "3USxtqRwSYz57Ewm6wWRMp",
+      "name": "Heat Waves",
+      "artist": "Glass Animals",
+      "album": "Dreamland",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
+      "popularity": 89,
+      "duration_ms": 238805,
+      "audio_features": {
+        "popularity": 0.89,
+        "duration_normalized": 0.39800833333333335,
         "explicit": 0.0,
         "energy_estimate": 1.0,
         "danceability_estimate": 0.5,
-        "valence_estimate": 0.81
+        "valence_estimate": 0.89
+      }
+    },
+    "5HCyWlXZPP0y6Gqq8TgA20": {
+      "id": "5HCyWlXZPP0y6Gqq8TgA20",
+      "name": "STAY (with Justin Bieber)",
+      "artist": "The Kid LAROI, Justin Bieber",
+      "album": "STAY (with Justin Bieber)",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20",
+      "popularity": 83,
+      "duration_ms": 141805,
+      "audio_features": {
+        "popularity": 0.83,
+        "duration_normalized": 0.23634166666666667,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.83
+      }
+    },
+    "4HPxh6IkRxCkb3T06Pltch": {
+      "id": "4HPxh6IkRxCkb3T06Pltch",
+      "name": "Diary Depresiku",
+      "artist": "Last Child",
+      "album": "Everything We Are Everything",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/4HPxh6IkRxCkb3T06Pltch",
+      "popularity": 76,
+      "duration_ms": 317650,
+      "audio_features": {
+        "popularity": 0.76,
+        "duration_normalized": 0.5294166666666666,
+        "explicit": 0.0,
+        "energy_estimate": 0.95,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.76
+      }
+    },
+    "0EQBfsLlv47ie3p0fE1QEs": {
+      "id": "0EQBfsLlv47ie3p0fE1QEs",
+      "name": "Kalibata, 2012",
+      "artist": "Perunggu",
+      "album": "Memorandum",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/0EQBfsLlv47ie3p0fE1QEs",
+      "popularity": 67,
+      "duration_ms": 301606,
+      "audio_features": {
+        "popularity": 0.67,
+        "duration_normalized": 0.5026766666666667,
+        "explicit": 0.0,
+        "energy_estimate": 0.8375,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.67
+      }
+    },
+    "4e6TmHCC4PRUj75knNplNP": {
+      "id": "4e6TmHCC4PRUj75knNplNP",
+      "name": "Mangu",
+      "artist": "Fourtwnty, Charita Utami",
+      "album": "Nalar",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP",
+      "popularity": 87,
+      "duration_ms": 261048,
+      "audio_features": {
+        "popularity": 0.87,
+        "duration_normalized": 0.43508,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.87
+      }
+    },
+    "0wULafSHeHYZFu54R9ZFRJ": {
+      "id": "0wULafSHeHYZFu54R9ZFRJ",
+      "name": "Mangu",
+      "artist": "Fourtwnty, Charita Utami",
+      "album": "Mangu",
+      "preview_url": null,
+      "external_url": "https://open.spotify.com/track/0wULafSHeHYZFu54R9ZFRJ",
+      "popularity": 87,
+      "duration_ms": 262469,
+      "audio_features": {
+        "popularity": 0.87,
+        "duration_normalized": 0.43744833333333333,
+        "explicit": 0.0,
+        "energy_estimate": 1.0,
+        "danceability_estimate": 0.5,
+        "valence_estimate": 0.87
       }
     }
   }

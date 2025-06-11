@@ -38,6 +38,17 @@ streamlit run app.py
 - **Spotify Developer Account** (free)
 - **Internet connection** for API access
 
+### 🎧 Music Playback Requirements
+
+- **For Spotify Embed Player:**
+  - Modern web browser with JavaScript enabled
+  - No Spotify Premium required for basic playback
+  - Some tracks may require Spotify Premium for full access
+
+- **For Audio Preview:**
+  - Any web browser with HTML5 audio support
+  - No additional requirements or subscriptions needed
+
 ## 🔧 Spotify API Setup
 
 1. **Create Spotify App:**
@@ -78,20 +89,47 @@ persona/
    streamlit run app.py
    ```
 
-2. **First Song:**
-   - App loads and shows an initial song recommendation
-   - Listen to the 30-second preview
-   - Click the Spotify link for the full song
+2. **Choose Your Player:**
+   - **Spotify Embed Player** (Default) - Listen to full tracks directly in the app
+   - **Audio Preview** - 30-second preview clips for quick sampling
+   - Toggle between players using the "Spotify Player" switch
 
-3. **Provide Feedback:**
+3. **Listen to Music:**
+   - **Full Track Playback:** Use the embedded Spotify player for complete songs
+   - **Preview Mode:** Quick 30-second samples with Streamlit's audio player
+   - **Automatic Fallback:** If embed fails, automatically switches to preview
+   - **External Access:** Click "🎧 Open in Spotify" for the full Spotify experience
+
+4. **Provide Feedback:**
    - Click 👍 **Like** if you enjoy the song
    - Click 👎 **Dislike** if it's not your taste
+   - Use ⏭️ **Skip Song** to get a new recommendation without rating
    - The AI learns from each interaction
 
-4. **Watch It Learn:**
+5. **Watch It Learn:**
    - Each feedback improves future recommendations
    - Statistics show your rating history
    - Recommendations become more personalized over time
+
+### 🎵 Music Playback Features
+
+- **Embedded Spotify Player:**
+  - Full track access (no time limits)
+  - Professional playback controls
+  - High-quality audio streaming
+  - Seamless integration within the app
+
+- **Audio Preview Player:**
+  - 30-second preview clips
+  - Lightweight and fast loading
+  - Works without Spotify Premium
+  - Perfect for quick music discovery
+
+- **Smart Player Selection:**
+  - Set your default player in the sidebar
+  - Toggle between players for each song
+  - Automatic fallback system ensures you can always listen
+  - Player preference is remembered across sessions
 
 ## 🧠 How It Works
 
